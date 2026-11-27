@@ -1,0 +1,16 @@
+{
+  "file": "infield/logo_b.png",
+  "source": "infield_logos_r1/option_b.png",
+  "option": "B",
+  "pre_stretched": false,
+  "size_m": [
+    30.0,
+    11.5
+  ],
+  "size_m_parametric": true,
+  "size_px": [
+    2048,
+    786
+  ],
+  "note": "Canonical (unstretched) wordmark at 30x11.5 m, sized for a 1/4-mile infield (~90x25 m). Place with world-Y scale 1/sin(38.32deg)=1.6129 if it should read at that size through the 38.3deg camera. Hammer Yellow is ungraded."
+}

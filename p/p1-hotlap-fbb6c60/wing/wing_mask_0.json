@@ -1,0 +1,2996 @@
+{
+ "frames": {
+  "wing_mask_045_n-2": {
+   "frame": {
+    "x": 4,
+    "y": 4,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.366354,
+    "y": 1.007135
+   },
+   "anchor": {
+    "x": 0.366354,
+    "y": 1.007135
+   },
+   "index": 0,
+   "heading": 45,
+   "notch": -2,
+   "rakeDeg": 19.5,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    60.8301,
+    -0.6861
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       181.79,
+       254.94
+      ],
+      [
+       81.99,
+       193.07
+      ],
+      [
+       169.18,
+       173.27
+      ],
+      [
+       268.99,
+       235.14
+      ]
+     ],
+     "facing": 0.399,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       212.63,
+       208.1
+      ],
+      [
+       297.99,
+       188.72
+      ],
+      [
+       283.16,
+       244.36
+      ],
+      [
+       197.81,
+       263.75
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       174.44,
+       112.12
+      ],
+      [
+       89.09,
+       131.51
+      ],
+      [
+       74.26,
+       187.15
+      ],
+      [
+       159.62,
+       167.77
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    }
+   }
+  },
+  "wing_mask_045_n-1": {
+   "frame": {
+    "x": 394,
+    "y": 4,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.366354,
+    "y": 1.007135
+   },
+   "anchor": {
+    "x": 0.366354,
+    "y": 1.007135
+   },
+   "index": 1,
+   "heading": 45,
+   "notch": -1,
+   "rakeDeg": 22.0,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    60.8301,
+    -0.6861
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       183.53,
+       249.33
+      ],
+      [
+       83.73,
+       187.45
+      ],
+      [
+       169.49,
+       172.72
+      ],
+      [
+       269.29,
+       234.6
+      ]
+     ],
+     "facing": 0.367,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       216.02,
+       202.42
+      ],
+      [
+       299.98,
+       188.01
+      ],
+      [
+       283.34,
+       244.01
+      ],
+      [
+       199.38,
+       258.43
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       176.43,
+       111.41
+      ],
+      [
+       92.47,
+       125.82
+      ],
+      [
+       75.84,
+       181.83
+      ],
+      [
+       159.8,
+       167.41
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    }
+   }
+  },
+  "wing_mask_045_n+0": {
+   "frame": {
+    "x": 784,
+    "y": 4,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.366354,
+    "y": 1.007135
+   },
+   "anchor": {
+    "x": 0.366354,
+    "y": 1.007135
+   },
+   "index": 2,
+   "heading": 45,
+   "notch": 0,
+   "rakeDeg": 24.5,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    60.8301,
+    -0.6861
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       185.45,
+       243.69
+      ],
+      [
+       85.64,
+       181.81
+      ],
+      [
+       169.81,
+       172.19
+      ],
+      [
+       269.62,
+       234.06
+      ]
+     ],
+     "facing": 0.334,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       219.55,
+       196.82
+      ],
+      [
+       301.94,
+       187.4
+      ],
+      [
+       283.53,
+       243.66
+      ],
+      [
+       201.13,
+       253.08
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       178.4,
+       110.8
+      ],
+      [
+       96.0,
+       120.22
+      ],
+      [
+       77.58,
+       176.48
+      ],
+      [
+       159.98,
+       167.06
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    }
+   }
+  },
+  "wing_mask_045_n+1": {
+   "frame": {
+    "x": 1174,
+    "y": 4,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.366354,
+    "y": 1.007135
+   },
+   "anchor": {
+    "x": 0.366354,
+    "y": 1.007135
+   },
+   "index": 3,
+   "heading": 45,
+   "notch": 1,
+   "rakeDeg": 27.0,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    60.8301,
+    -0.6861
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       187.53,
+       238.04
+      ],
+      [
+       87.73,
+       176.16
+      ],
+      [
+       170.15,
+       171.66
+      ],
+      [
+       269.95,
+       233.54
+      ]
+     ],
+     "facing": 0.301,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       223.2,
+       191.31
+      ],
+      [
+       303.88,
+       186.91
+      ],
+      [
+       283.72,
+       243.31
+      ],
+      [
+       203.04,
+       247.72
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       180.34,
+       110.31
+      ],
+      [
+       99.66,
+       114.72
+      ],
+      [
+       79.5,
+       171.12
+      ],
+      [
+       160.18,
+       166.71
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    }
+   }
+  },
+  "wing_mask_045_n+2": {
+   "frame": {
+    "x": 1564,
+    "y": 4,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.366354,
+    "y": 1.007135
+   },
+   "anchor": {
+    "x": 0.366354,
+    "y": 1.007135
+   },
+   "index": 4,
+   "heading": 45,
+   "notch": 2,
+   "rakeDeg": 29.5,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    60.8301,
+    -0.6861
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       189.79,
+       232.39
+      ],
+      [
+       89.99,
+       170.51
+      ],
+      [
+       170.5,
+       171.14
+      ],
+      [
+       270.3,
+       233.02
+      ]
+     ],
+     "facing": 0.266,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       226.98,
+       185.91
+      ],
+      [
+       305.8,
+       186.52
+      ],
+      [
+       283.93,
+       242.97
+      ],
+      [
+       205.12,
+       242.36
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       182.25,
+       109.93
+      ],
+      [
+       103.44,
+       109.31
+      ],
+      [
+       81.57,
+       165.76
+      ],
+      [
+       160.38,
+       166.37
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    }
+   }
+  },
+  "wing_mask_090_n-2": {
+   "frame": {
+    "x": 4,
+    "y": 394,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.31099,
+    "y": 0.946615
+   },
+   "anchor": {
+    "x": 0.31099,
+    "y": 0.946615
+   },
+   "index": 5,
+   "heading": 90,
+   "notch": -2,
+   "rakeDeg": 19.5,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    66.144,
+    5.1247
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       106.99,
+       239.06
+      ],
+      [
+       106.99,
+       151.55
+      ],
+      [
+       230.3,
+       185.81
+      ],
+      [
+       230.3,
+       273.32
+      ]
+     ],
+     "facing": 0.584,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       133.82,
+       207.03
+      ],
+      [
+       254.53,
+       240.57
+      ],
+      [
+       233.57,
+       287.02
+      ],
+      [
+       112.85,
+       253.48
+      ]
+     ],
+     "facing": 0.785,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       254.53,
+       132.24
+      ],
+      [
+       133.82,
+       98.7
+      ],
+      [
+       112.85,
+       145.15
+      ],
+      [
+       233.57,
+       178.69
+      ]
+     ],
+     "facing": -0.785,
+     "visible": false
+    }
+   }
+  },
+  "wing_mask_090_n-1": {
+   "frame": {
+    "x": 394,
+    "y": 394,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.31099,
+    "y": 0.946615
+   },
+   "anchor": {
+    "x": 0.31099,
+    "y": 0.946615
+   },
+   "index": 6,
+   "heading": 90,
+   "notch": -1,
+   "rakeDeg": 22.0,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    66.144,
+    5.1247
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       109.45,
+       234.52
+      ],
+      [
+       109.45,
+       147.01
+      ],
+      [
+       230.74,
+       185.46
+      ],
+      [
+       230.74,
+       272.96
+      ]
+     ],
+     "facing": 0.575,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       138.61,
+       203.44
+      ],
+      [
+       257.34,
+       241.08
+      ],
+      [
+       233.82,
+       286.77
+      ],
+      [
+       115.08,
+       249.13
+      ]
+     ],
+     "facing": 0.785,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       257.34,
+       132.76
+      ],
+      [
+       138.61,
+       95.12
+      ],
+      [
+       115.08,
+       140.81
+      ],
+      [
+       233.82,
+       178.45
+      ]
+     ],
+     "facing": -0.785,
+     "visible": false
+    }
+   }
+  },
+  "wing_mask_090_n+0": {
+   "frame": {
+    "x": 784,
+    "y": 394,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.31099,
+    "y": 0.946615
+   },
+   "anchor": {
+    "x": 0.31099,
+    "y": 0.946615
+   },
+   "index": 7,
+   "heading": 90,
+   "notch": 0,
+   "rakeDeg": 24.5,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    66.144,
+    5.1247
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       112.16,
+       230.07
+      ],
+      [
+       112.16,
+       142.56
+      ],
+      [
+       231.19,
+       185.12
+      ],
+      [
+       231.19,
+       272.63
+      ]
+     ],
+     "facing": 0.564,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       143.6,
+       200.03
+      ],
+      [
+       260.12,
+       241.7
+      ],
+      [
+       234.08,
+       286.54
+      ],
+      [
+       117.55,
+       244.87
+      ]
+     ],
+     "facing": 0.785,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       260.12,
+       133.37
+      ],
+      [
+       143.6,
+       91.7
+      ],
+      [
+       117.55,
+       136.54
+      ],
+      [
+       234.08,
+       178.21
+      ]
+     ],
+     "facing": -0.785,
+     "visible": false
+    }
+   }
+  },
+  "wing_mask_090_n+1": {
+   "frame": {
+    "x": 1174,
+    "y": 394,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.31099,
+    "y": 0.946615
+   },
+   "anchor": {
+    "x": 0.31099,
+    "y": 0.946615
+   },
+   "index": 8,
+   "heading": 90,
+   "notch": 1,
+   "rakeDeg": 27.0,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    66.144,
+    5.1247
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       115.11,
+       225.71
+      ],
+      [
+       115.11,
+       138.2
+      ],
+      [
+       231.67,
+       184.8
+      ],
+      [
+       231.67,
+       272.31
+      ]
+     ],
+     "facing": 0.552,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       148.77,
+       196.79
+      ],
+      [
+       262.87,
+       242.41
+      ],
+      [
+       234.36,
+       286.31
+      ],
+      [
+       120.26,
+       240.7
+      ]
+     ],
+     "facing": 0.785,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       262.87,
+       134.08
+      ],
+      [
+       148.77,
+       88.46
+      ],
+      [
+       120.26,
+       132.37
+      ],
+      [
+       234.36,
+       177.98
+      ]
+     ],
+     "facing": -0.785,
+     "visible": false
+    }
+   }
+  },
+  "wing_mask_090_n+2": {
+   "frame": {
+    "x": 1564,
+    "y": 394,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.31099,
+    "y": 0.946615
+   },
+   "anchor": {
+    "x": 0.31099,
+    "y": 0.946615
+   },
+   "index": 9,
+   "heading": 90,
+   "notch": 2,
+   "rakeDeg": 29.5,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    66.144,
+    5.1247
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       118.31,
+       221.46
+      ],
+      [
+       118.31,
+       133.95
+      ],
+      [
+       232.16,
+       184.5
+      ],
+      [
+       232.16,
+       272.0
+      ]
+     ],
+     "facing": 0.54,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       154.11,
+       193.73
+      ],
+      [
+       265.57,
+       243.21
+      ],
+      [
+       234.65,
+       286.1
+      ],
+      [
+       123.19,
+       236.62
+      ]
+     ],
+     "facing": 0.785,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       265.57,
+       134.88
+      ],
+      [
+       154.11,
+       85.4
+      ],
+      [
+       123.19,
+       128.29
+      ],
+      [
+       234.65,
+       177.77
+      ]
+     ],
+     "facing": -0.785,
+     "visible": false
+    }
+   }
+  },
+  "wing_mask_135_n-2": {
+   "frame": {
+    "x": 4,
+    "y": 784,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.366354,
+    "y": 0.858047
+   },
+   "anchor": {
+    "x": 0.366354,
+    "y": 0.858047
+   },
+   "index": 10,
+   "heading": 135,
+   "notch": -2,
+   "rakeDeg": 19.5,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    60.8301,
+    13.6264
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       81.99,
+       186.79
+      ],
+      [
+       181.79,
+       124.91
+      ],
+      [
+       268.99,
+       213.23
+      ],
+      [
+       169.18,
+       275.11
+      ]
+     ],
+     "facing": 0.77,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       89.09,
+       163.47
+      ],
+      [
+       174.44,
+       249.93
+      ],
+      [
+       159.62,
+       287.19
+      ],
+      [
+       74.26,
+       200.72
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       297.99,
+       173.33
+      ],
+      [
+       212.63,
+       86.87
+      ],
+      [
+       197.81,
+       124.13
+      ],
+      [
+       283.16,
+       210.59
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    }
+   }
+  },
+  "wing_mask_135_n-1": {
+   "frame": {
+    "x": 394,
+    "y": 784,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.366354,
+    "y": 0.858047
+   },
+   "anchor": {
+    "x": 0.366354,
+    "y": 0.858047
+   },
+   "index": 11,
+   "heading": 135,
+   "notch": -1,
+   "rakeDeg": 22.0,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    60.8301,
+    13.6264
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       83.73,
+       183.32
+      ],
+      [
+       183.53,
+       121.45
+      ],
+      [
+       269.29,
+       213.07
+      ],
+      [
+       169.49,
+       274.94
+      ]
+     ],
+     "facing": 0.783,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       92.47,
+       161.99
+      ],
+      [
+       176.43,
+       251.68
+      ],
+      [
+       159.8,
+       287.05
+      ],
+      [
+       75.84,
+       197.36
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       299.98,
+       175.08
+      ],
+      [
+       216.02,
+       85.39
+      ],
+      [
+       199.38,
+       120.76
+      ],
+      [
+       283.34,
+       210.45
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    }
+   }
+  },
+  "wing_mask_135_n+0": {
+   "frame": {
+    "x": 784,
+    "y": 784,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.366354,
+    "y": 0.858047
+   },
+   "anchor": {
+    "x": 0.366354,
+    "y": 0.858047
+   },
+   "index": 12,
+   "heading": 135,
+   "notch": 0,
+   "rakeDeg": 24.5,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    60.8301,
+    13.6264
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       85.64,
+       180.06
+      ],
+      [
+       185.45,
+       118.18
+      ],
+      [
+       269.62,
+       212.93
+      ],
+      [
+       169.81,
+       274.81
+      ]
+     ],
+     "facing": 0.794,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       96.0,
+       160.76
+      ],
+      [
+       178.4,
+       253.51
+      ],
+      [
+       159.98,
+       286.93
+      ],
+      [
+       77.58,
+       194.18
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       301.94,
+       176.91
+      ],
+      [
+       219.55,
+       84.16
+      ],
+      [
+       201.13,
+       117.58
+      ],
+      [
+       283.53,
+       210.33
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    }
+   }
+  },
+  "wing_mask_135_n+1": {
+   "frame": {
+    "x": 1174,
+    "y": 784,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.366354,
+    "y": 0.858047
+   },
+   "anchor": {
+    "x": 0.366354,
+    "y": 0.858047
+   },
+   "index": 13,
+   "heading": 135,
+   "notch": 1,
+   "rakeDeg": 27.0,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    60.8301,
+    13.6264
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       87.73,
+       177.0
+      ],
+      [
+       187.53,
+       115.12
+      ],
+      [
+       269.95,
+       212.82
+      ],
+      [
+       170.15,
+       274.69
+      ]
+     ],
+     "facing": 0.804,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       99.66,
+       159.78
+      ],
+      [
+       180.34,
+       255.42
+      ],
+      [
+       160.18,
+       286.83
+      ],
+      [
+       79.5,
+       191.19
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       303.88,
+       178.82
+      ],
+      [
+       223.2,
+       83.19
+      ],
+      [
+       203.04,
+       114.59
+      ],
+      [
+       283.72,
+       210.23
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    }
+   }
+  },
+  "wing_mask_135_n+2": {
+   "frame": {
+    "x": 1564,
+    "y": 784,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.366354,
+    "y": 0.858047
+   },
+   "anchor": {
+    "x": 0.366354,
+    "y": 0.858047
+   },
+   "index": 14,
+   "heading": 135,
+   "notch": 2,
+   "rakeDeg": 29.5,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    60.8301,
+    13.6264
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       89.99,
+       174.15
+      ],
+      [
+       189.79,
+       112.27
+      ],
+      [
+       270.3,
+       212.73
+      ],
+      [
+       170.5,
+       274.6
+      ]
+     ],
+     "facing": 0.813,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       103.44,
+       159.07
+      ],
+      [
+       182.25,
+       257.41
+      ],
+      [
+       160.38,
+       286.74
+      ],
+      [
+       81.57,
+       188.4
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       305.8,
+       180.81
+      ],
+      [
+       226.98,
+       82.47
+      ],
+      [
+       205.12,
+       111.8
+      ],
+      [
+       283.93,
+       210.14
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    }
+   }
+  },
+  "wing_mask_225_n-2": {
+   "frame": {
+    "x": 4,
+    "y": 1174,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.633646,
+    "y": 0.858047
+   },
+   "anchor": {
+    "x": 0.633646,
+    "y": 0.858047
+   },
+   "index": 15,
+   "heading": 225,
+   "notch": -2,
+   "rakeDeg": 19.5,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    35.1699,
+    13.6264
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       202.21,
+       124.91
+      ],
+      [
+       302.01,
+       186.79
+      ],
+      [
+       214.82,
+       275.11
+      ],
+      [
+       115.01,
+       213.23
+      ]
+     ],
+     "facing": 0.77,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       171.37,
+       86.87
+      ],
+      [
+       86.01,
+       173.33
+      ],
+      [
+       100.84,
+       210.59
+      ],
+      [
+       186.19,
+       124.13
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       209.56,
+       249.93
+      ],
+      [
+       294.91,
+       163.47
+      ],
+      [
+       309.74,
+       200.72
+      ],
+      [
+       224.38,
+       287.19
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    }
+   }
+  },
+  "wing_mask_225_n-1": {
+   "frame": {
+    "x": 394,
+    "y": 1174,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.633646,
+    "y": 0.858047
+   },
+   "anchor": {
+    "x": 0.633646,
+    "y": 0.858047
+   },
+   "index": 16,
+   "heading": 225,
+   "notch": -1,
+   "rakeDeg": 22.0,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    35.1699,
+    13.6264
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       200.47,
+       121.45
+      ],
+      [
+       300.27,
+       183.32
+      ],
+      [
+       214.51,
+       274.94
+      ],
+      [
+       114.71,
+       213.07
+      ]
+     ],
+     "facing": 0.783,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       167.98,
+       85.39
+      ],
+      [
+       84.02,
+       175.08
+      ],
+      [
+       100.66,
+       210.45
+      ],
+      [
+       184.62,
+       120.76
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       207.57,
+       251.68
+      ],
+      [
+       291.53,
+       161.99
+      ],
+      [
+       308.16,
+       197.36
+      ],
+      [
+       224.2,
+       287.05
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    }
+   }
+  },
+  "wing_mask_225_n+0": {
+   "frame": {
+    "x": 784,
+    "y": 1174,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.633646,
+    "y": 0.858047
+   },
+   "anchor": {
+    "x": 0.633646,
+    "y": 0.858047
+   },
+   "index": 17,
+   "heading": 225,
+   "notch": 0,
+   "rakeDeg": 24.5,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    35.1699,
+    13.6264
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       198.55,
+       118.18
+      ],
+      [
+       298.36,
+       180.06
+      ],
+      [
+       214.19,
+       274.81
+      ],
+      [
+       114.38,
+       212.93
+      ]
+     ],
+     "facing": 0.794,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       164.45,
+       84.16
+      ],
+      [
+       82.06,
+       176.91
+      ],
+      [
+       100.47,
+       210.33
+      ],
+      [
+       182.87,
+       117.58
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       205.6,
+       253.51
+      ],
+      [
+       288.0,
+       160.76
+      ],
+      [
+       306.42,
+       194.18
+      ],
+      [
+       224.02,
+       286.93
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    }
+   }
+  },
+  "wing_mask_225_n+1": {
+   "frame": {
+    "x": 1174,
+    "y": 1174,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.633646,
+    "y": 0.858047
+   },
+   "anchor": {
+    "x": 0.633646,
+    "y": 0.858047
+   },
+   "index": 18,
+   "heading": 225,
+   "notch": 1,
+   "rakeDeg": 27.0,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    35.1699,
+    13.6264
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       196.47,
+       115.12
+      ],
+      [
+       296.27,
+       177.0
+      ],
+      [
+       213.85,
+       274.69
+      ],
+      [
+       114.05,
+       212.82
+      ]
+     ],
+     "facing": 0.804,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       160.8,
+       83.19
+      ],
+      [
+       80.12,
+       178.82
+      ],
+      [
+       100.28,
+       210.23
+      ],
+      [
+       180.96,
+       114.59
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       203.66,
+       255.42
+      ],
+      [
+       284.34,
+       159.78
+      ],
+      [
+       304.5,
+       191.19
+      ],
+      [
+       223.82,
+       286.83
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    }
+   }
+  },
+  "wing_mask_225_n+2": {
+   "frame": {
+    "x": 1564,
+    "y": 1174,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.633646,
+    "y": 0.858047
+   },
+   "anchor": {
+    "x": 0.633646,
+    "y": 0.858047
+   },
+   "index": 19,
+   "heading": 225,
+   "notch": 2,
+   "rakeDeg": 29.5,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    35.1699,
+    13.6264
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       194.21,
+       112.27
+      ],
+      [
+       294.01,
+       174.15
+      ],
+      [
+       213.5,
+       274.6
+      ],
+      [
+       113.7,
+       212.73
+      ]
+     ],
+     "facing": 0.813,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       157.02,
+       82.47
+      ],
+      [
+       78.2,
+       180.81
+      ],
+      [
+       100.07,
+       210.14
+      ],
+      [
+       178.88,
+       111.8
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       201.75,
+       257.41
+      ],
+      [
+       280.56,
+       159.07
+      ],
+      [
+       302.43,
+       188.4
+      ],
+      [
+       223.62,
+       286.74
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    }
+   }
+  },
+  "wing_mask_315_n-2": {
+   "frame": {
+    "x": 4,
+    "y": 1564,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.633646,
+    "y": 1.007135
+   },
+   "anchor": {
+    "x": 0.633646,
+    "y": 1.007135
+   },
+   "index": 20,
+   "heading": 315,
+   "notch": -2,
+   "rakeDeg": 19.5,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    35.1699,
+    -0.6861
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       302.01,
+       193.07
+      ],
+      [
+       202.21,
+       254.94
+      ],
+      [
+       115.01,
+       235.14
+      ],
+      [
+       214.82,
+       173.27
+      ]
+     ],
+     "facing": 0.399,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       294.91,
+       131.51
+      ],
+      [
+       209.56,
+       112.12
+      ],
+      [
+       224.38,
+       167.77
+      ],
+      [
+       309.74,
+       187.15
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       86.01,
+       188.72
+      ],
+      [
+       171.37,
+       208.1
+      ],
+      [
+       186.19,
+       263.75
+      ],
+      [
+       100.84,
+       244.36
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    }
+   }
+  },
+  "wing_mask_315_n-1": {
+   "frame": {
+    "x": 394,
+    "y": 1564,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.633646,
+    "y": 1.007135
+   },
+   "anchor": {
+    "x": 0.633646,
+    "y": 1.007135
+   },
+   "index": 21,
+   "heading": 315,
+   "notch": -1,
+   "rakeDeg": 22.0,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    35.1699,
+    -0.6861
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       300.27,
+       187.45
+      ],
+      [
+       200.47,
+       249.33
+      ],
+      [
+       114.71,
+       234.6
+      ],
+      [
+       214.51,
+       172.72
+      ]
+     ],
+     "facing": 0.367,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       291.53,
+       125.82
+      ],
+      [
+       207.57,
+       111.41
+      ],
+      [
+       224.2,
+       167.41
+      ],
+      [
+       308.16,
+       181.83
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       84.02,
+       188.01
+      ],
+      [
+       167.98,
+       202.42
+      ],
+      [
+       184.62,
+       258.43
+      ],
+      [
+       100.66,
+       244.01
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    }
+   }
+  },
+  "wing_mask_315_n+0": {
+   "frame": {
+    "x": 784,
+    "y": 1564,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.633646,
+    "y": 1.007135
+   },
+   "anchor": {
+    "x": 0.633646,
+    "y": 1.007135
+   },
+   "index": 22,
+   "heading": 315,
+   "notch": 0,
+   "rakeDeg": 24.5,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    35.1699,
+    -0.6861
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       298.36,
+       181.81
+      ],
+      [
+       198.55,
+       243.69
+      ],
+      [
+       114.38,
+       234.06
+      ],
+      [
+       214.19,
+       172.19
+      ]
+     ],
+     "facing": 0.334,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       288.0,
+       120.22
+      ],
+      [
+       205.6,
+       110.8
+      ],
+      [
+       224.02,
+       167.06
+      ],
+      [
+       306.42,
+       176.48
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       82.06,
+       187.4
+      ],
+      [
+       164.45,
+       196.82
+      ],
+      [
+       182.87,
+       253.08
+      ],
+      [
+       100.47,
+       243.66
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    }
+   }
+  },
+  "wing_mask_315_n+1": {
+   "frame": {
+    "x": 1174,
+    "y": 1564,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.633646,
+    "y": 1.007135
+   },
+   "anchor": {
+    "x": 0.633646,
+    "y": 1.007135
+   },
+   "index": 23,
+   "heading": 315,
+   "notch": 1,
+   "rakeDeg": 27.0,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    35.1699,
+    -0.6861
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       296.27,
+       176.16
+      ],
+      [
+       196.47,
+       238.04
+      ],
+      [
+       114.05,
+       233.54
+      ],
+      [
+       213.85,
+       171.66
+      ]
+     ],
+     "facing": 0.301,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       284.34,
+       114.72
+      ],
+      [
+       203.66,
+       110.31
+      ],
+      [
+       223.82,
+       166.71
+      ],
+      [
+       304.5,
+       171.12
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       80.12,
+       186.91
+      ],
+      [
+       160.8,
+       191.31
+      ],
+      [
+       180.96,
+       247.72
+      ],
+      [
+       100.28,
+       243.31
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    }
+   }
+  },
+  "wing_mask_315_n+2": {
+   "frame": {
+    "x": 1564,
+    "y": 1564,
+    "w": 384,
+    "h": 384
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 384,
+    "h": 384
+   },
+   "sourceSize": {
+    "w": 384,
+    "h": 384
+   },
+   "pivot": {
+    "x": 0.633646,
+    "y": 1.007135
+   },
+   "anchor": {
+    "x": 0.633646,
+    "y": 1.007135
+   },
+   "index": 24,
+   "heading": 315,
+   "notch": 2,
+   "rakeDeg": 29.5,
+   "scaleCloseToCar": 0.25,
+   "originInCarPx": [
+    35.1699,
+    -0.6861
+   ],
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       294.01,
+       170.51
+      ],
+      [
+       194.21,
+       232.39
+      ],
+      [
+       113.7,
+       233.02
+      ],
+      [
+       213.5,
+       171.14
+      ]
+     ],
+     "facing": 0.266,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       280.56,
+       109.31
+      ],
+      [
+       201.75,
+       109.93
+      ],
+      [
+       223.62,
+       166.37
+      ],
+      [
+       302.43,
+       165.76
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       78.2,
+       186.52
+      ],
+      [
+       157.02,
+       185.91
+      ],
+      [
+       178.88,
+       242.36
+      ],
+      [
+       100.07,
+       242.97
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    }
+   }
+  }
+ },
+ "meta": {
+  "app": "CK2 Art Bot pack_atlas_wing.py (TexturePacker JSON Hash compatible)",
+  "version": "wing_closeup_r1",
+  "model": "R4f top wing only (round4/src/ck2car_r4.py + spec410.py, Matthew-approved 2026-11-21 11:25 PM, locked). Garage closeup, not part of the race atlas.",
+  "image": "wing_mask_0.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2048,
+   "h": 2048
+  },
+  "scale": "1",
+  "related_multi_packs": [],
+  "layer": "mask",
+  "layerSpec": "8-bit RGBA, unlit, LINEAR, NOT premultiplied. Four mutually exclusive paint regions (dominant region wins the whole pixel; value = paint fraction, so AA only against non-paint): R = primary/deck, G = secondary (wing belly/trailing edge/caps, sideboard bands), B = number panel (wing top + both sideboards), STRIPE = 1 - A (wicker bill). A = 255 everywhere that is not stripe (incl. empty space). Coverage is NOT in the mask any more: use the albedo alpha (identical frame rects).",
+  "frameSize": {
+   "w": 384,
+   "h": 384
+  },
+  "pivotMeaning": "ground point directly under the rear-axle centre (same world point as the car sprite pivot 0.5/0.5). Per-frame pivot may lie slightly outside the closeup. Overlay: car_px = close_px * 0.25 + originInCarPx, or draw both with this shared pivot.",
+  "orthoScaleM": 3.4,
+  "pxPerMeter": 112.94118,
+  "metersPerPx": 0.008854,
+  "carOrthoScaleM": 6.8,
+  "carFramePx": 192,
+  "scaleCloseToCar": 0.25,
+  "headings": [
+   45,
+   90,
+   135,
+   225,
+   315
+  ],
+  "heading0": "nose pointing up the screen, away from the grandstand, increasing clockwise (same as the car bake)",
+  "headingDirection": "clockwise",
+  "headingSpace": "ground-plane (world) angle",
+  "headingNotes": {
+   "45": "3/4 rear, car left",
+   "90": "left profile (clearest rake read)",
+   "135": "3/4 front, car left (hero garage view)",
+   "225": "3/4 front, car right",
+   "315": "3/4 rear, car right"
+  },
+  "notches": [
+   -2,
+   -1,
+   0,
+   1,
+   2
+  ],
+  "notchStepDeg": 2.5,
+  "baseRakeDeg": 24.5,
+  "rakeDeg": {
+   "-2": 19.5,
+   "-1": 22.0,
+   "0": 24.5,
+   "1": 27.0,
+   "2": 29.5
+  },
+  "rakeNote": "Notch 0 is the locked R4f rake (24.5 deg). Each notch is 2.5 deg about the front-post deck mount (the same pivot as spec410._repivot). Range 19.5-29.5 deg, inside/near pit-photo 15-28 and Speedway Motors 24-28.",
+  "frameOrder": "index = headingIndex * 5 + notchIndex (notch order -2,-1,0,+1,+2); page = index // framesPerPage; same order in every layer",
+  "framesPerPage": 25,
+  "gridCols": 5,
+  "cellPitch": 390,
+  "extrude": 2,
+  "padding": 2,
+  "border": 2,
+  "trim": false,
+  "rotation": false,
+  "camTiltDeg": 51.7,
+  "camElevDeg": 38.3,
+  "projection": "orthographic",
+  "paintGreyLinear": 0.8,
+  "keyLight": "R4 scene, fixed for all frames: key sun 3.8 (12 deg disc) from screen upper-left ~62 deg high, two large area fill banks, sky 0.6; shadow layer = key sun only (wing shadow on the ground)",
+  "tint": "linear: m = mask; stripe = 1 - m.a; rgb = albedo.rgb * mix(1, primary/0.8, m.r) * mix(1, secondary/0.8, m.g) * mix(1, panel/0.8, m.b) * mix(1, stripe/0.8, stripe); alpha = albedo.a; then rgb += specGlint (from the spec layer, added AFTER the tint and NOT tinted)",
+  "runtimeOnly": [
+   "SDF numbers",
+   "sponsor / tank text decals"
+  ],
+  "maskCategories": {
+   "primary": "R",
+   "deck": "R",
+   "helmet": "R",
+   "secondary": "G",
+   "panel": "B",
+   "stripe": "1-A"
+  },
+  "maskNote": "R5b 4-region: R primary/deck, G secondary, B number panel, stripe = 1-A (wicker bill). A = 255 except on the stripe, including empty space. Coverage from albedo.a. Doc tints [ #2B2F36, #1A1D22, #2B2F36, #18B7A6 ].",
+  "numberPanelsNote": "albedo + mask frames: numberPanels.{wing_top, board_right, board_left}.corners in 384 px frame px (origin top-left), order TL,TR,BR,BL in the number reading frame; wing_top reads upright to someone in FRONT of the car; facing = cos(angle to camera), visible = facing > 0.05. Panel colour = the B tint (primary).",
+  "overlay": {
+   "45": {
+    "shift_x": 0.1336337924003601,
+    "shift_y": 0.5071561932563782,
+    "center_m": [
+     0.4544,
+     1.7243
+    ],
+    "scale_close_to_car": 0.25,
+    "origin_in_car_px": [
+     60.8301,
+     -0.6861
+    ],
+    "axle_ground_in_closeup_px": [
+     140.68,
+     386.74
+    ],
+    "pivot": {
+     "x": 0.366354,
+     "y": 1.007135
+    },
+    "pivotMeaning": "ground point under the rear-axle centre, same world point as the car sprite pivot (0.5, 0.5); may lie slightly outside the closeup frame",
+    "front_post_mount_in_closeup_px_n+0": [
+     226.51,
+     207.27
+    ],
+    "note": "To overlay on car_albedo_{h:03d}_C (192 px): scale this frame by 0.25 and place its top-left at origin_in_car_px, or draw both sprites with the shared rear-axle-ground pivot."
+   },
+   "90": {
+    "shift_x": 0.18898674845695496,
+    "shift_y": 0.44660788774490356,
+    "center_m": [
+     0.6426,
+     1.5185
+    ],
+    "scale_close_to_car": 0.25,
+    "origin_in_car_px": [
+     66.144,
+     5.1247
+    ],
+    "axle_ground_in_closeup_px": [
+     119.42,
+     363.5
+    ],
+    "pivot": {
+     "x": 0.31099,
+     "y": 0.946615
+    },
+    "pivotMeaning": "ground point under the rear-axle centre, same world point as the car sprite pivot (0.5, 0.5); may lie slightly outside the closeup frame",
+    "front_post_mount_in_closeup_px_n+0": [
+     240.81,
+     237.23
+    ],
+    "note": "To overlay on car_albedo_{h:03d}_C (192 px): scale this frame by 0.25 and place its top-left at origin_in_car_px, or draw both sprites with the shared rear-axle-ground pivot."
+   },
+   "135": {
+    "shift_x": 0.1336337924003601,
+    "shift_y": 0.35805544257164,
+    "center_m": [
+     0.4544,
+     1.2174
+    ],
+    "scale_close_to_car": 0.25,
+    "origin_in_car_px": [
+     60.8301,
+     13.6264
+    ],
+    "axle_ground_in_closeup_px": [
+     140.68,
+     329.49
+    ],
+    "pivot": {
+     "x": 0.366354,
+     "y": 0.858047
+    },
+    "pivotMeaning": "ground point under the rear-axle centre, same world point as the car sprite pivot (0.5, 0.5); may lie slightly outside the closeup frame",
+    "front_post_mount_in_closeup_px_n+0": [
+     226.51,
+     256.44
+    ],
+    "note": "To overlay on car_albedo_{h:03d}_C (192 px): scale this frame by 0.25 and place its top-left at origin_in_car_px, or draw both sprites with the shared rear-axle-ground pivot."
+   },
+   "225": {
+    "shift_x": -0.1336337924003601,
+    "shift_y": 0.35805544257164,
+    "center_m": [
+     -0.4544,
+     1.2174
+    ],
+    "scale_close_to_car": 0.25,
+    "origin_in_car_px": [
+     35.1699,
+     13.6264
+    ],
+    "axle_ground_in_closeup_px": [
+     243.32,
+     329.49
+    ],
+    "pivot": {
+     "x": 0.633646,
+     "y": 0.858047
+    },
+    "pivotMeaning": "ground point under the rear-axle centre, same world point as the car sprite pivot (0.5, 0.5); may lie slightly outside the closeup frame",
+    "front_post_mount_in_closeup_px_n+0": [
+     157.49,
+     256.44
+    ],
+    "note": "To overlay on car_albedo_{h:03d}_C (192 px): scale this frame by 0.25 and place its top-left at origin_in_car_px, or draw both sprites with the shared rear-axle-ground pivot."
+   },
+   "315": {
+    "shift_x": -0.1336338222026825,
+    "shift_y": 0.5071561932563782,
+    "center_m": [
+     -0.4544,
+     1.7243
+    ],
+    "scale_close_to_car": 0.25,
+    "origin_in_car_px": [
+     35.1699,
+     -0.6861
+    ],
+    "axle_ground_in_closeup_px": [
+     243.32,
+     386.74
+    ],
+    "pivot": {
+     "x": 0.633646,
+     "y": 1.007135
+    },
+    "pivotMeaning": "ground point under the rear-axle centre, same world point as the car sprite pivot (0.5, 0.5); may lie slightly outside the closeup frame",
+    "front_post_mount_in_closeup_px_n+0": [
+     157.49,
+     207.27
+    ],
+    "note": "To overlay on car_albedo_{h:03d}_C (192 px): scale this frame by 0.25 and place its top-left at origin_in_car_px, or draw both sprites with the shared rear-axle-ground pivot."
+   }
+  },
+  "framing": {
+   "45": {
+    "union_m": [
+     -0.8189,
+     1.7276,
+     0.9095,
+     2.5392
+    ],
+    "span_m": [
+     2.5465,
+     1.6297
+    ],
+    "center_m": [
+     0.4544,
+     1.7243
+    ],
+    "need_m": 2.5465,
+    "shift_x": 0.1336337924003601,
+    "shift_y": 0.5071561932563782,
+    "shadow_union_m": [
+     -0.083,
+     2.4677,
+     -0.918,
+     0.6957
+    ],
+    "shadow_shift_x": 0.06682352941176471,
+    "shadow_shift_y": 0.2535735294117647
+   },
+   "90": {
+    "union_m": [
+     -0.3851,
+     1.6702,
+     0.4257,
+     2.6112
+    ],
+    "span_m": [
+     2.0553,
+     2.1854
+    ],
+    "center_m": [
+     0.6426,
+     1.5185
+    ],
+    "need_m": 2.1854,
+    "shift_x": 0.18898674845695496,
+    "shift_y": 0.44660788774490356,
+    "shadow_union_m": [
+     0.3508,
+     2.4103,
+     -1.0408,
+     0.2409
+    ],
+    "shadow_shift_x": 0.0945,
+    "shadow_shift_y": 0.22330882352941175
+   },
+   "135": {
+    "union_m": [
+     -0.8189,
+     1.7276,
+     -0.0016,
+     2.4364
+    ],
+    "span_m": [
+     2.5465,
+     2.438
+    ],
+    "center_m": [
+     0.4544,
+     1.2174
+    ],
+    "need_m": 2.5465,
+    "shift_x": 0.1336337924003601,
+    "shift_y": 0.35805544257164,
+    "shadow_union_m": [
+     -0.083,
+     2.4677,
+     -1.4466,
+     0.1344
+    ],
+    "shadow_shift_x": 0.06682352941176471,
+    "shadow_shift_y": 0.17902941176470588
+   },
+   "225": {
+    "union_m": [
+     -1.7276,
+     0.8189,
+     -0.0016,
+     2.4364
+    ],
+    "span_m": [
+     2.5465,
+     2.438
+    ],
+    "center_m": [
+     -0.4544,
+     1.2174
+    ],
+    "need_m": 2.5465,
+    "shift_x": -0.1336337924003601,
+    "shift_y": 0.35805544257164,
+    "shadow_union_m": [
+     -1.0061,
+     1.6676,
+     -1.4466,
+     0.1344
+    ],
+    "shadow_shift_x": -0.06682352941176471,
+    "shadow_shift_y": 0.17902941176470588
+   },
+   "315": {
+    "union_m": [
+     -1.7276,
+     0.8189,
+     0.9095,
+     2.5392
+    ],
+    "span_m": [
+     2.5465,
+     1.6297
+    ],
+    "center_m": [
+     -0.4544,
+     1.7243
+    ],
+    "need_m": 2.5465,
+    "shift_x": -0.1336338222026825,
+    "shift_y": 0.5071561932563782,
+    "shadow_union_m": [
+     -1.0061,
+     1.6676,
+     -0.918,
+     0.6957
+    ],
+    "shadow_shift_x": -0.06682352941176471,
+    "shadow_shift_y": 0.2535735294117647
+   }
+  },
+  "gpuFormat": "KTX2 UASTC (linear) \u2014 use this file; ETC1S alternative also written",
+  "ktx2Image": "wing_mask_0_uastc.ktx2",
+  "ktx2ImageETC1S": "wing_mask_0.ktx2",
+  "ktx2Note": "Ship ktx2Image (UASTC, linear): ETC1S breaks the mutually exclusive regions. The ETC1S file is kept for comparison only."
+ }
+}

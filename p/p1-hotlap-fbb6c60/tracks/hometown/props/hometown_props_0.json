@@ -1,0 +1,243 @@
+{
+  "frames": {
+    "bleachers": {
+      "frame": {
+        "x": 4,
+        "y": 1470,
+        "w": 728,
+        "h": 317
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 26,
+        "w": 728,
+        "h": 317
+      },
+      "sourceSize": {
+        "w": 728,
+        "h": 470
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.340694
+      },
+      "pivotMeaning": "ground-contact (world origin) in the trimmed sprite; TexturePacker (0,0)=bottom-left",
+      "size_m": {
+        "w": 24.0,
+        "d": 9.0,
+        "h": 5.819999999999999
+      },
+      "px_per_m": 28.0
+    },
+    "bleachers_crowd": {
+      "frame": {
+        "x": 4,
+        "y": 1124,
+        "w": 728,
+        "h": 342
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 728,
+        "h": 342
+      },
+      "sourceSize": {
+        "w": 728,
+        "h": 470
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.315789
+      },
+      "pivotMeaning": "ground-contact (world origin) in the trimmed sprite; TexturePacker (0,0)=bottom-left",
+      "size_m": {
+        "w": 24.0,
+        "d": 9.0,
+        "h": 5.819999999999999
+      },
+      "px_per_m": 28.0
+    },
+    "press_box": {
+      "frame": {
+        "x": 364,
+        "y": 4,
+        "w": 266,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 266,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 266,
+        "h": 554
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.352804
+      },
+      "pivotMeaning": "ground-contact (world origin) in the trimmed sprite; TexturePacker (0,0)=bottom-left",
+      "size_m": {
+        "w": 7.5,
+        "d": 4.7,
+        "h": 9.3
+      },
+      "px_per_m": 28.0
+    },
+    "pits_L": {
+      "frame": {
+        "x": 4,
+        "y": 1791,
+        "w": 550,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 0,
+        "w": 550,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 566,
+        "h": 356
+      },
+      "pivot": {
+        "x": 0.485455,
+        "y": 0.25523
+      },
+      "pivotMeaning": "ground-contact (world origin) in the trimmed sprite; TexturePacker (0,0)=bottom-left",
+      "size_m": {
+        "w": 18.0,
+        "d": 12.0,
+        "h": 3.5
+      },
+      "px_per_m": 28.0
+    },
+    "pits_R": {
+      "frame": {
+        "x": 736,
+        "y": 4,
+        "w": 553,
+        "h": 279
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 0,
+        "w": 553,
+        "h": 279
+      },
+      "sourceSize": {
+        "w": 572,
+        "h": 386
+      },
+      "pivot": {
+        "x": 0.482821,
+        "y": 0.308244
+      },
+      "pivotMeaning": "ground-contact (world origin) in the trimmed sprite; TexturePacker (0,0)=bottom-left",
+      "size_m": {
+        "w": 18.0,
+        "d": 12.0,
+        "h": 3.5
+      },
+      "px_per_m": 28.0
+    },
+    "water_tower": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 356,
+        "h": 1116
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 92,
+        "w": 356,
+        "h": 1116
+      },
+      "sourceSize": {
+        "w": 356,
+        "h": 1606
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.362903
+      },
+      "pivotMeaning": "ground-contact (world origin) in the trimmed sprite; TexturePacker (0,0)=bottom-left",
+      "size_m": {
+        "w": 10.0,
+        "d": 10.0,
+        "h": 32.0
+      },
+      "px_per_m": 28.0
+    },
+    "light_pole": {
+      "frame": {
+        "x": 364,
+        "y": 436,
+        "w": 123,
+        "h": 636
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 27,
+        "w": 123,
+        "h": 636
+      },
+      "sourceSize": {
+        "w": 148,
+        "h": 1036
+      },
+      "pivot": {
+        "x": 0.601626,
+        "y": 0.227987
+      },
+      "pivotMeaning": "ground-contact (world origin) in the trimmed sprite; TexturePacker (0,0)=bottom-left",
+      "size_m": {
+        "w": 3.4000000000000004,
+        "d": 1.3,
+        "h": 22.3
+      },
+      "px_per_m": 28.0
+    }
+  },
+  "meta": {
+    "app": "CK2 Art Bot pack_hometown.py (TexturePacker JSON Hash compatible)",
+    "version": "hometown-r1",
+    "image": "hometown_props_0.png",
+    "ktx2Image": "hometown_props_0.ktx2",
+    "ktx2Note": "UASTC sRGB: ETC1S fringes alpha on transparent prop sprites.",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    },
+    "scale": "1",
+    "px_per_m": 28.0,
+    "camera": "orthographic, elevation asin(0.62)=38.316 deg, 28 px/m, transparent bg",
+    "grade": [
+      1.08,
+      0.84,
+      0.62
+    ],
+    "grade_applied": false,
+    "grade_note": "Sprites are ungraded. Render bot applies [1.08, 0.84, 0.62] at runtime. Lit with the shared 6deg/2200K sun (highlights only) plus a cool fill; a higher-angle contact sun writes a small catcher shadow."
+  }
+}
