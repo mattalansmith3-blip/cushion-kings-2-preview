@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="gold" x1="28%" y1="16%" x2="74%" y2="90%">
+      <stop offset="0%" stop-color="#FFE16A"/>
+      <stop offset="48%" stop-color="#FFC20E"/>
+      <stop offset="100%" stop-color="#C9940A"/>
+    </linearGradient>
+    <linearGradient id="band" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#FFE16A"/>
+      <stop offset="100%" stop-color="#C9940A"/>
+    </linearGradient>
+  </defs>
+  <!-- crown body: five peaks on a band -->
+  <path d="M8 42 L10 22 L21 34 L32 14 L43 34 L54 22 L56 42 Z"
+        fill="url(#gold)" stroke="#1A1D22" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- band -->
+  <rect x="8" y="42" width="48" height="10" rx="1.4" fill="url(#band)" stroke="#1A1D22" stroke-width="2"/>
+  <!-- bevel on band and left slope -->
+  <path d="M11 22.8 L20.2 33.2" fill="none" stroke="#FFE16A" stroke-width="1.1" stroke-linecap="round" opacity="0.55"/>
+  <line x1="10" y1="44.2" x2="54" y2="44.2" stroke="#FFE16A" stroke-width="1" opacity="0.4"/>
+  <line x1="10" y1="50.2" x2="54" y2="50.2" stroke="#C9940A" stroke-width="1" opacity="0.35"/>
+  <!-- cap jewels as small discs, outlined, not cartoony -->
+  <circle cx="10" cy="22" r="2.3" fill="url(#gold)" stroke="#1A1D22" stroke-width="1.2"/>
+  <circle cx="21" cy="34" r="2.1" fill="url(#gold)" stroke="#1A1D22" stroke-width="1.2"/>
+  <circle cx="32" cy="14" r="2.6" fill="url(#gold)" stroke="#1A1D22" stroke-width="1.2"/>
+  <circle cx="43" cy="34" r="2.1" fill="url(#gold)" stroke="#1A1D22" stroke-width="1.2"/>
+  <circle cx="54" cy="22" r="2.3" fill="url(#gold)" stroke="#1A1D22" stroke-width="1.2"/>
+</svg>

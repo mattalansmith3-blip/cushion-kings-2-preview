@@ -1,0 +1,41 @@
+{
+ "albedo": {
+  "pages": 1,
+  "frames": 5,
+  "frame": 192,
+  "perPage": 100,
+  "bytes_png": 96563,
+  "bytes_ktx2": 22989,
+  "ktx2": "--format R8G8B8A8_SRGB --encode uastc --uastc-quality 3 --uastc-rdo --zstd 18"
+ },
+ "mask": {
+  "pages": 1,
+  "frames": 5,
+  "frame": 192,
+  "perPage": 100,
+  "bytes_png": 41152,
+  "bytes_ktx2_etc1s": 5138,
+  "ktx2_uastc": "--format R8G8B8A8_UNORM --encode uastc --uastc-quality 4 --zstd 18 --assign-tf linear",
+  "shipped": "uastc",
+  "bytes_ktx2": 12674,
+  "ktx2": "--format R8G8B8A8_UNORM --encode uastc --uastc-quality 4 --zstd 18 --assign-tf linear"
+ },
+ "shadow": {
+  "pages": 1,
+  "frames": 5,
+  "frame": 96,
+  "perPage": 400,
+  "bytes_png": 8854,
+  "bytes_ktx2": 2551,
+  "ktx2": "--format R8_UNORM --encode basis-lz --clevel 5 --qlevel 255 --assign-tf linear"
+ },
+ "spec": {
+  "pages": 1,
+  "frames": 5,
+  "frame": 96,
+  "perPage": 400,
+  "bytes_png": 10104,
+  "bytes_ktx2": 3071,
+  "ktx2": "--format R8_UNORM --encode basis-lz --clevel 5 --qlevel 255 --assign-tf linear"
+ }
+}

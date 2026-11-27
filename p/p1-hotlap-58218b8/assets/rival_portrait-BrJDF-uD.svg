@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 200" width="160" height="200">
+  <!-- graphite plate with a 1px Hammer Yellow edge; photo well is a hole (transparent) -->
+  <path fill="#2B2F36" fill-rule="evenodd" stroke="#FFC20E" stroke-width="1"
+        d="M8,0.5 H152 C156.14,0.5 159.5,3.86 159.5,8 V192 C159.5,196.14 156.14,199.5 152,199.5 H8
+           C3.86,199.5 0.5,196.14 0.5,192 V8 C0.5,3.86 3.86,0.5 8,0.5 Z
+           M10,8 H150 C151.1,8 152,8.9 152,10 V152 C152,153.1 151.1,154 150,154 H10
+           C8.9,154 8,153.1 8,152 V10 C8,8.9 8.9,8 10,8 Z"/>
+  <!-- nameplate bar at the bottom -->
+  <rect x="8" y="162" width="144" height="30" rx="3.5" fill="#23262C" stroke="#FFC20E" stroke-width="1"/>
+</svg>

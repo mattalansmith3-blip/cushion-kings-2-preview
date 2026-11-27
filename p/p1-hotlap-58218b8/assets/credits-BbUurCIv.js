@@ -1,0 +1,1 @@
+import{s as c,p as t,h as s,t as a,a as p,b as r}from"./index-_yl26dDu.js";function h(d){const e=c(d.doc,"credits"),o=t(d.doc),n=s(d.doc,a("credits.title"));return n.dataset.needsSync="credits.title",o.appendChild(n),o.appendChild(p(d.doc,"credits.body","ck2-body")),e.appendChild(o),e.appendChild(r(d.doc,d.go)),e}export{h as render};
