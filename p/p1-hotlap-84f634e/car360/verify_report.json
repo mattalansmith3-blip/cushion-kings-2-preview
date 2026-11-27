@@ -1,0 +1,40 @@
+{
+  "frames": {},
+  "clip": {
+    "albedo": {
+      "min_margin_px": 16,
+      "at": "car_albedo_090_C",
+      "required": 16
+    },
+    "mask": {
+      "min_margin_px": 16,
+      "at": "car_mask_090_C",
+      "required": 16
+    },
+    "shadow": {
+      "min_margin_px": 4,
+      "at": "car_shadow_075_C",
+      "required": 4
+    },
+    "spec": {
+      "min_margin_px": 8,
+      "at": "car_spec_090_C",
+      "required": 8
+    }
+  },
+  "issues": [],
+  "mask_regions": "R,G,B,stripe(1-A)",
+  "mask_paint_outside_albedo_coverage_px": 0,
+  "mask_A_below_255_outside_coverage_px": 0,
+  "mask_stripe_pixels": 1916,
+  "mask_pixels_with_more_than_one_region_on": 0,
+  "mask_pixels_RGB_sum_over_255": 0,
+  "mask_solid_paint_pixels": 93227,
+  "n_frames": {
+    "albedo": 24,
+    "mask": 24,
+    "shadow": 24,
+    "spec": 24
+  },
+  "verdict": "PASS"
+}

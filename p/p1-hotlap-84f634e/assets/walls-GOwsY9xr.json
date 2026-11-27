@@ -1,0 +1,59 @@
+{
+  "px_per_m": 64,
+  "wall": {
+    "height_m": 1.2,
+    "height_source": "Physics PR #88 canonical: wallHeightM=1.2, fenceHeightAboveWallM=3.0 (replaces hometown_track_ref.json 2.0/2.5)",
+    "tile_width_m": 16.0,
+    "panel_width_m": 4.0,
+    "size_px": [
+      1024,
+      128
+    ],
+    "content_px": [
+      1024,
+      77
+    ],
+    "content_rect": [
+      0,
+      51,
+      1024,
+      77
+    ],
+    "pad_top_px": 51,
+    "files": {
+      "albedo": "walls/wall_albedo.png",
+      "normal": "walls/wall_normal.png",
+      "roughness": "walls/wall_roughness.png"
+    },
+    "note": "1024x128 POT. Bottom 77 px are 1.2 m of wall at 64 px/m; top 51 px transparent. Do not stretch V over the full 128 px."
+  },
+  "catch_fence": {
+    "height_m": 3.0,
+    "height_source": "Physics PR #88 canonical: wallHeightM=1.2, fenceHeightAboveWallM=3.0 (replaces hometown_track_ref.json 2.0/2.5)",
+    "tile_width_m": 16.0,
+    "post_spacing_m": 4.0,
+    "size_px": [
+      1024,
+      256
+    ],
+    "content_px": [
+      1024,
+      192
+    ],
+    "content_rect": [
+      0,
+      64,
+      1024,
+      192
+    ],
+    "pad_top_px": 64,
+    "files": {
+      "albedo": "walls/fence_albedo.png"
+    },
+    "note": "1024x256 POT. Bottom 192 px are 3.0 m of fence at 64 px/m; top 64 px transparent."
+  },
+  "wall_height_m": 1.2,
+  "fence_height_above_wall_m": 3.0,
+  "height_source": "Physics PR #88 canonical: wallHeightM=1.2, fenceHeightAboveWallM=3.0 (replaces hometown_track_ref.json 2.0/2.5)",
+  "note": "Strips are face-on, tiled along track length (U). V is up the wall/fence. Wall is 1024x128 POT with 1.2 m (77 px) of content in the bottom rows (top 51 px transparent). Fence is 1024x256 POT with 3.0 m (192 px) of content in the bottom rows (top 64 px transparent). Post spacing is 4.0 m. Heights are Physics PR #88 canonical."
+}

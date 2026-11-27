@@ -1,0 +1,860 @@
+{
+ "frames": {
+  "car_spec_000_C": {
+   "frame": {
+    "x": 4,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 0,
+   "heading": 0,
+   "steer": "C"
+  },
+  "car_spec_015_C": {
+   "frame": {
+    "x": 106,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 1,
+   "heading": 15,
+   "steer": "C"
+  },
+  "car_spec_030_C": {
+   "frame": {
+    "x": 208,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 2,
+   "heading": 30,
+   "steer": "C"
+  },
+  "car_spec_045_C": {
+   "frame": {
+    "x": 310,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 3,
+   "heading": 45,
+   "steer": "C"
+  },
+  "car_spec_060_C": {
+   "frame": {
+    "x": 412,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 4,
+   "heading": 60,
+   "steer": "C"
+  },
+  "car_spec_075_C": {
+   "frame": {
+    "x": 514,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 5,
+   "heading": 75,
+   "steer": "C"
+  },
+  "car_spec_090_C": {
+   "frame": {
+    "x": 616,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 6,
+   "heading": 90,
+   "steer": "C"
+  },
+  "car_spec_105_C": {
+   "frame": {
+    "x": 718,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 7,
+   "heading": 105,
+   "steer": "C"
+  },
+  "car_spec_120_C": {
+   "frame": {
+    "x": 820,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 8,
+   "heading": 120,
+   "steer": "C"
+  },
+  "car_spec_135_C": {
+   "frame": {
+    "x": 922,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 9,
+   "heading": 135,
+   "steer": "C"
+  },
+  "car_spec_150_C": {
+   "frame": {
+    "x": 1024,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 10,
+   "heading": 150,
+   "steer": "C"
+  },
+  "car_spec_165_C": {
+   "frame": {
+    "x": 1126,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 11,
+   "heading": 165,
+   "steer": "C"
+  },
+  "car_spec_180_C": {
+   "frame": {
+    "x": 1228,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 12,
+   "heading": 180,
+   "steer": "C"
+  },
+  "car_spec_195_C": {
+   "frame": {
+    "x": 1330,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 13,
+   "heading": 195,
+   "steer": "C"
+  },
+  "car_spec_210_C": {
+   "frame": {
+    "x": 1432,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 14,
+   "heading": 210,
+   "steer": "C"
+  },
+  "car_spec_225_C": {
+   "frame": {
+    "x": 1534,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 15,
+   "heading": 225,
+   "steer": "C"
+  },
+  "car_spec_240_C": {
+   "frame": {
+    "x": 1636,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 16,
+   "heading": 240,
+   "steer": "C"
+  },
+  "car_spec_255_C": {
+   "frame": {
+    "x": 1738,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 17,
+   "heading": 255,
+   "steer": "C"
+  },
+  "car_spec_270_C": {
+   "frame": {
+    "x": 1840,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 18,
+   "heading": 270,
+   "steer": "C"
+  },
+  "car_spec_285_C": {
+   "frame": {
+    "x": 1942,
+    "y": 4,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 19,
+   "heading": 285,
+   "steer": "C"
+  },
+  "car_spec_300_C": {
+   "frame": {
+    "x": 4,
+    "y": 106,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 20,
+   "heading": 300,
+   "steer": "C"
+  },
+  "car_spec_315_C": {
+   "frame": {
+    "x": 106,
+    "y": 106,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 21,
+   "heading": 315,
+   "steer": "C"
+  },
+  "car_spec_330_C": {
+   "frame": {
+    "x": 208,
+    "y": 106,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 22,
+   "heading": 330,
+   "steer": "C"
+  },
+  "car_spec_345_C": {
+   "frame": {
+    "x": 310,
+    "y": 106,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 23,
+   "heading": 345,
+   "steer": "C"
+  }
+ },
+ "meta": {
+  "app": "CK2 Art Bot pack_atlas_360.py (TexturePacker JSON Hash compatible)",
+  "version": "360.1",
+  "model": "360 r1 (car360_r1/src/ck2car_360.py + spec360.py; garage only)",
+  "class": "360",
+  "use": "garage / turntable only \u2014 not a race atlas",
+  "image": "car_spec_0.png",
+  "format": "L8",
+  "size": {
+   "w": 2048,
+   "h": 2048
+  },
+  "scale": "1",
+  "related_multi_packs": [],
+  "layer": "spec",
+  "layerSpec": "single channel 8-bit, chrome/specular amount (premultiplied by coverage); half res of the albedo frame, same 6.8 m window, so albedo UV x0.5 within the frame",
+  "frameSize": {
+   "w": 96,
+   "h": 96
+  },
+  "pivot": {
+   "x": 0.5,
+   "y": 0.5
+  },
+  "pivotMeaning": "ground point directly under the rear-axle centre; same pixel in every frame of every layer",
+  "axleCentrePx192": [
+   96.0,
+   87.32
+  ],
+  "orthoScaleM": 6.8,
+  "pxPerMeter": 14.11765,
+  "metersPerPx": 0.070833,
+  "headings": 24,
+  "headingStepDeg": 15,
+  "heading0": "nose pointing up the screen, away from the grandstand, increasing clockwise",
+  "headingDirection": "clockwise",
+  "headingSpace": "ground-plane (world) angle",
+  "steerPoses": [
+   "C"
+  ],
+  "steerDeg": {
+   "C": 0.0
+  },
+  "steerNote": "front-wheel yaw; + = wheels turned to the car's left (CCW from above). Garage bake is neutral steer (C) only.",
+  "frameOrder": "index = headingIndex * nSteers + steerIndex; page = index // framesPerPage; same order in every layer",
+  "framesPerPage": 400,
+  "gridCols": 20,
+  "cellPitch": 102,
+  "extrude": 2,
+  "padding": 2,
+  "border": 2,
+  "trim": false,
+  "rotation": false,
+  "camTiltDeg": 51.7,
+  "camElevDeg": 38.3,
+  "projection": "orthographic",
+  "squash": 0.62,
+  "heightScale": 0.785,
+  "paintGreyLinear": 0.8,
+  "keyLight": "R4 scene, fixed for all frames: key sun 3.8 (12 deg disc) from screen upper-left ~62 deg high, two large area fill banks, sky 0.6; shadow layer = key sun only",
+  "tint": "linear: rgb = albedo * prod_c mix(1, tint_c/0.8, mask_c) ; then + spec glint UNTINTED at runtime",
+  "runtimeOnly": [
+   "mud",
+   "depth scaling",
+   "time-of-day grade",
+   "pole lights",
+   "SDF numbers",
+   "sponsor / tank text decals"
+  ],
+  "maskCategories": {
+   "primary": "R",
+   "deck": "R",
+   "secondary": "G",
+   "stripe": "G",
+   "panel": "B"
+  },
+  "numberPanelsNote": "albedo + mask frames: numberPanels.{wing_top, board_right, board_left}.corners = 4 points in 192 px frame px (origin top-left), order TL,TR,BR,BL in the number reading frame; wing_top reads upright to someone in FRONT of the car; each sideboard number reads front-to-back from its own outside; facing = cos(angle to camera), visible = facing > 0.05. Panel colour = the B tint (primary).",
+  "gpuFormat": "KTX2 ETC1S/BasisLZ R8 (linear)",
+  "ktx2Image": "car_spec_0.ktx2",
+  "proportions": {
+   "klass": "360",
+   "wheelbase": 2.2098,
+   "front_bumper_y": 2.77622,
+   "rear_bumper_y": -0.8382000000000001,
+   "overall_length": 3.61442,
+   "rear_outer_right": 0.99822,
+   "rear_outer_left": -0.90805,
+   "overall_width": 1.9062700000000001,
+   "rear_track_cc": 1.4554200000000002,
+   "front_track_cc": 1.3716,
+   "stagger_in": 2.7000000000000033,
+   "hood_w": 0.7111999999999999,
+   "top_foil_sqft": 20.25,
+   "top_foil_in": [
+    54.0,
+    54.0
+   ],
+   "top_boards_in": [
+    65.0,
+    27.0
+   ],
+   "board_front_y": 1.5132794248282855,
+   "board_rear_y": -0.273463259202536,
+   "top_corner_z": 2.532015188541439,
+   "cage_top_z": 1.47955,
+   "axle_z": 0.391795,
+   "rr_tread_in": 16.0,
+   "lr_tread_in": 13.5,
+   "rr_dia_in": 32.2,
+   "lr_dia_in": 29.5
+  }
+ }
+}

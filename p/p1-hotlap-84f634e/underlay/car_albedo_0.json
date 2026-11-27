@@ -1,0 +1,312 @@
+{
+ "frames": {
+  "car_albedo_045_C_nowing": {
+   "frame": {
+    "x": 4,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 0,
+   "heading": 45,
+   "steer": "C"
+  },
+  "car_albedo_090_C_nowing": {
+   "frame": {
+    "x": 202,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 1,
+   "heading": 90,
+   "steer": "C"
+  },
+  "car_albedo_135_C_nowing": {
+   "frame": {
+    "x": 400,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 2,
+   "heading": 135,
+   "steer": "C"
+  },
+  "car_albedo_225_C_nowing": {
+   "frame": {
+    "x": 598,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 3,
+   "heading": 225,
+   "steer": "C"
+  },
+  "car_albedo_315_C_nowing": {
+   "frame": {
+    "x": 796,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 4,
+   "heading": 315,
+   "steer": "C"
+  }
+ },
+ "meta": {
+  "app": "CK2 Art Bot pack_atlas_underlay.py (TexturePacker JSON Hash compatible)",
+  "version": "wing_closeup_r1_underlay",
+  "model": "R4f underlay, top-wing assembly hidden (round4/src/ck2car_r4.py + spec410.py, Matthew-approved 2026-11-21 11:25 PM, locked). Garage only, not part of the race atlas.",
+  "image": "car_albedo_0.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2048,
+   "h": 2048
+  },
+  "scale": "1",
+  "related_multi_packs": [],
+  "layer": "albedo",
+  "layerSpec": "lit colour (soft key + ambient), straight alpha, sRGB; livery paint rendered neutral grey linear 0.80 (sRGB 231); top-wing assembly hidden; numbers not baked (runtime SDF)",
+  "frameSize": {
+   "w": 192,
+   "h": 192
+  },
+  "pivot": {
+   "x": 0.5,
+   "y": 0.5
+  },
+  "pivotMeaning": "ground point directly under the rear-axle centre; same pixel as the car bake and the closeup overlay pivot",
+  "axleCentrePx192": [
+   96.0,
+   87.11
+  ],
+  "orthoScaleM": 6.8,
+  "pxPerMeter": 28.23529,
+  "metersPerPx": 0.035417,
+  "headings": [
+   45,
+   90,
+   135,
+   225,
+   315
+  ],
+  "heading0": "nose pointing up the screen, away from the grandstand, increasing clockwise (same as the car bake)",
+  "headingDirection": "clockwise",
+  "headingSpace": "ground-plane (world) angle",
+  "steerPoses": [
+   "C"
+  ],
+  "steerDeg": {
+   "C": 0.0
+  },
+  "frameOrder": "index = headingIndex (headings 045,090,135,225,315); one page per layer",
+  "framesPerPage": 100,
+  "gridCols": 10,
+  "cellPitch": 198,
+  "extrude": 2,
+  "padding": 2,
+  "border": 2,
+  "trim": false,
+  "rotation": false,
+  "camTiltDeg": 51.7,
+  "camElevDeg": 38.3,
+  "projection": "orthographic",
+  "paintGreyLinear": 0.8,
+  "keyLight": "R4 scene, fixed for all frames: key sun 3.8 (12 deg disc) from screen upper-left ~62 deg high, two large area fill banks, sky 0.6; shadow layer = key sun only",
+  "tint": "linear: m = mask; stripe = 1 - m.a; rgb = albedo.rgb * mix(1, primary/0.8, m.r) * mix(1, secondary/0.8, m.g) * mix(1, panel/0.8, m.b) * mix(1, stripe/0.8, stripe); alpha = albedo.a; then rgb += specGlint (from the spec layer, added AFTER the tint and NOT tinted)",
+  "maskCategories": {
+   "primary": "R",
+   "deck": "R",
+   "helmet": "R",
+   "secondary": "G",
+   "panel": "B",
+   "stripe": "1-A"
+  },
+  "maskNote": "R5b 4-region: R primary/deck, G secondary, B number panel, stripe = 1-A. A = 255 except on the stripe, including empty space. Coverage from albedo.a. No wing number panels (the top wing is hidden).",
+  "hideNote": "Hidden: every child of top_wing (foil, sideboards, wicker, wing numbers) and the top_wing empty. Kept: slider rails, front/rear posts, stays, wing cylinder (cage-mounted). Nose wing kept. Posts stay at the locked 24.5\u00b0 attachment; the front-post deck mount is the closeup tilt pivot so front posts still meet the overlay wing. Rear posts do not extend with notch.",
+  "shadowNote": "Underlay shadow is the car without the top-wing assembly (posts still cast). The wing closeup atlas carries the wing-only ground shadow. Runtime combine on the car grid: density = 1 - (1-underlay)*(1-closeup_wing), then the usual 0.6 runtime alpha. Closeup shadow placement uses the closeup overlay origin, with scale 1.0 onto the 192 px / 6.8 m car frame (see wing closeup README).",
+  "hiddenWingObjects": [
+   "board_-1",
+   "board_1",
+   "board_band_-1",
+   "board_band_1",
+   "board_digits_-1",
+   "board_digits_-1_ol00",
+   "board_digits_-1_ol01",
+   "board_digits_-1_ol02",
+   "board_digits_-1_ol03",
+   "board_digits_-1_ol04",
+   "board_digits_-1_ol05",
+   "board_digits_-1_ol06",
+   "board_digits_-1_ol07",
+   "board_digits_-1_ol08",
+   "board_digits_-1_ol09",
+   "board_digits_-1_ol10",
+   "board_digits_-1_ol11",
+   "board_digits_-1_ol12",
+   "board_digits_-1_ol13",
+   "board_digits_-1_ol14",
+   "board_digits_-1_ol15",
+   "board_digits_1",
+   "board_digits_1_ol00",
+   "board_digits_1_ol01",
+   "board_digits_1_ol02",
+   "board_digits_1_ol03",
+   "board_digits_1_ol04",
+   "board_digits_1_ol05",
+   "board_digits_1_ol06",
+   "board_digits_1_ol07",
+   "board_digits_1_ol08",
+   "board_digits_1_ol09",
+   "board_digits_1_ol10",
+   "board_digits_1_ol11",
+   "board_digits_1_ol12",
+   "board_digits_1_ol13",
+   "board_digits_1_ol14",
+   "board_digits_1_ol15",
+   "board_pin_-1",
+   "board_pin_1",
+   "top_wing",
+   "wicker_bill",
+   "wing_belly",
+   "wing_cap_-1",
+   "wing_cap_1",
+   "wing_deck",
+   "wing_digits",
+   "wing_digits_ol00",
+   "wing_digits_ol01",
+   "wing_digits_ol02",
+   "wing_digits_ol03",
+   "wing_digits_ol04",
+   "wing_digits_ol05",
+   "wing_digits_ol06",
+   "wing_digits_ol07",
+   "wing_digits_ol08",
+   "wing_digits_ol09",
+   "wing_digits_ol10",
+   "wing_digits_ol11",
+   "wing_digits_ol12",
+   "wing_digits_ol13",
+   "wing_digits_ol14",
+   "wing_digits_ol15",
+   "wing_nose",
+   "wing_te"
+  ],
+  "keptPostsAndMounts": [
+   "slider_-1",
+   "slider_1",
+   "wing_cylinder",
+   "wing_post_f-1",
+   "wing_post_f1",
+   "wing_post_r-1",
+   "wing_post_r1",
+   "wing_stay_-1",
+   "wing_stay_1"
+  ],
+  "gpuFormat": "KTX2 UASTC (sRGB)",
+  "ktx2Image": "car_albedo_0.ktx2"
+ }
+}

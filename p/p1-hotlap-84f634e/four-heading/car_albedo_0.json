@@ -1,0 +1,1192 @@
+{
+ "frames": {
+  "car_albedo_000_L": {
+   "frame": {
+    "x": 4,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "heading": 0,
+   "steer": "L",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       77.25,
+       70.61
+      ],
+      [
+       77.25,
+       58.48
+      ],
+      [
+       114.75,
+       58.48
+      ],
+      [
+       114.75,
+       70.61
+      ]
+     ],
+     "facing": 0.428,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       119.86,
+       65.23
+      ],
+      [
+       119.86,
+       53.76
+      ],
+      [
+       119.86,
+       64.79
+      ],
+      [
+       119.86,
+       76.26
+      ]
+     ],
+     "facing": -0.0,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       72.14,
+       53.76
+      ],
+      [
+       72.14,
+       65.23
+      ],
+      [
+       72.14,
+       76.26
+      ],
+      [
+       72.14,
+       64.79
+      ]
+     ],
+     "facing": -0.0,
+     "visible": false
+    }
+   }
+  },
+  "car_albedo_000_C": {
+   "frame": {
+    "x": 202,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "heading": 0,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       77.25,
+       70.61
+      ],
+      [
+       77.25,
+       58.48
+      ],
+      [
+       114.75,
+       58.48
+      ],
+      [
+       114.75,
+       70.61
+      ]
+     ],
+     "facing": 0.428,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       119.86,
+       65.23
+      ],
+      [
+       119.86,
+       53.76
+      ],
+      [
+       119.86,
+       64.79
+      ],
+      [
+       119.86,
+       76.26
+      ]
+     ],
+     "facing": -0.0,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       72.14,
+       53.76
+      ],
+      [
+       72.14,
+       65.23
+      ],
+      [
+       72.14,
+       76.26
+      ],
+      [
+       72.14,
+       64.79
+      ]
+     ],
+     "facing": -0.0,
+     "visible": false
+    }
+   }
+  },
+  "car_albedo_000_R": {
+   "frame": {
+    "x": 400,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "heading": 0,
+   "steer": "R",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       77.25,
+       70.61
+      ],
+      [
+       77.25,
+       58.48
+      ],
+      [
+       114.75,
+       58.48
+      ],
+      [
+       114.75,
+       70.61
+      ]
+     ],
+     "facing": 0.428,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       119.86,
+       65.23
+      ],
+      [
+       119.86,
+       53.76
+      ],
+      [
+       119.86,
+       64.79
+      ],
+      [
+       119.86,
+       76.26
+      ]
+     ],
+     "facing": -0.0,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       72.14,
+       53.76
+      ],
+      [
+       72.14,
+       65.23
+      ],
+      [
+       72.14,
+       76.26
+      ],
+      [
+       72.14,
+       64.79
+      ]
+     ],
+     "facing": -0.0,
+     "visible": false
+    }
+   }
+  },
+  "car_albedo_045_L": {
+   "frame": {
+    "x": 598,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "heading": 45,
+   "steer": "L",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       71.22,
+       59.43
+      ],
+      [
+       90.75,
+       52.32
+      ],
+      [
+       117.27,
+       68.76
+      ],
+      [
+       97.73,
+       75.86
+      ]
+     ],
+     "facing": 0.479,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       100.26,
+       72.46
+      ],
+      [
+       118.75,
+       65.73
+      ],
+      [
+       116.81,
+       76.26
+      ],
+      [
+       98.32,
+       82.98
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       85.01,
+       44.81
+      ],
+      [
+       66.52,
+       51.54
+      ],
+      [
+       64.58,
+       62.06
+      ],
+      [
+       83.07,
+       55.34
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    }
+   }
+  },
+  "car_albedo_045_C": {
+   "frame": {
+    "x": 796,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "heading": 45,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       71.22,
+       59.43
+      ],
+      [
+       90.75,
+       52.32
+      ],
+      [
+       117.27,
+       68.76
+      ],
+      [
+       97.73,
+       75.86
+      ]
+     ],
+     "facing": 0.479,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       100.26,
+       72.46
+      ],
+      [
+       118.75,
+       65.73
+      ],
+      [
+       116.81,
+       76.26
+      ],
+      [
+       98.32,
+       82.98
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       85.01,
+       44.81
+      ],
+      [
+       66.52,
+       51.54
+      ],
+      [
+       64.58,
+       62.06
+      ],
+      [
+       83.07,
+       55.34
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    }
+   }
+  },
+  "car_albedo_045_R": {
+   "frame": {
+    "x": 994,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "heading": 45,
+   "steer": "R",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       71.22,
+       59.43
+      ],
+      [
+       90.75,
+       52.32
+      ],
+      [
+       117.27,
+       68.76
+      ],
+      [
+       97.73,
+       75.86
+      ]
+     ],
+     "facing": 0.479,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       100.26,
+       72.46
+      ],
+      [
+       118.75,
+       65.73
+      ],
+      [
+       116.81,
+       76.26
+      ],
+      [
+       98.32,
+       82.98
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       85.01,
+       44.81
+      ],
+      [
+       66.52,
+       51.54
+      ],
+      [
+       64.58,
+       62.06
+      ],
+      [
+       83.07,
+       55.34
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    }
+   }
+  },
+  "car_albedo_090_L": {
+   "frame": {
+    "x": 1192,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "heading": 90,
+   "steer": "L",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       79.7,
+       48.87
+      ],
+      [
+       107.33,
+       53.88
+      ],
+      [
+       107.33,
+       77.13
+      ],
+      [
+       79.7,
+       72.12
+      ]
+     ],
+     "facing": 0.604,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       78.17,
+       68.97
+      ],
+      [
+       104.31,
+       73.71
+      ],
+      [
+       101.57,
+       83.03
+      ],
+      [
+       75.42,
+       78.29
+      ]
+     ],
+     "facing": 0.785,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       104.31,
+       44.12
+      ],
+      [
+       78.17,
+       39.39
+      ],
+      [
+       75.42,
+       48.71
+      ],
+      [
+       101.57,
+       53.45
+      ]
+     ],
+     "facing": -0.785,
+     "visible": false
+    }
+   }
+  },
+  "car_albedo_090_C": {
+   "frame": {
+    "x": 1390,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "heading": 90,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       79.7,
+       48.87
+      ],
+      [
+       107.33,
+       53.88
+      ],
+      [
+       107.33,
+       77.13
+      ],
+      [
+       79.7,
+       72.12
+      ]
+     ],
+     "facing": 0.604,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       78.17,
+       68.97
+      ],
+      [
+       104.31,
+       73.71
+      ],
+      [
+       101.57,
+       83.03
+      ],
+      [
+       75.42,
+       78.29
+      ]
+     ],
+     "facing": 0.785,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       104.31,
+       44.12
+      ],
+      [
+       78.17,
+       39.39
+      ],
+      [
+       75.42,
+       48.71
+      ],
+      [
+       101.57,
+       53.45
+      ]
+     ],
+     "facing": -0.785,
+     "visible": false
+    }
+   }
+  },
+  "car_albedo_090_R": {
+   "frame": {
+    "x": 1588,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "heading": 90,
+   "steer": "R",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       79.7,
+       48.87
+      ],
+      [
+       107.33,
+       53.88
+      ],
+      [
+       107.33,
+       77.13
+      ],
+      [
+       79.7,
+       72.12
+      ]
+     ],
+     "facing": 0.604,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       78.17,
+       68.97
+      ],
+      [
+       104.31,
+       73.71
+      ],
+      [
+       101.57,
+       83.03
+      ],
+      [
+       75.42,
+       78.29
+      ]
+     ],
+     "facing": 0.785,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       104.31,
+       44.12
+      ],
+      [
+       78.17,
+       39.39
+      ],
+      [
+       75.42,
+       48.71
+      ],
+      [
+       101.57,
+       53.45
+      ]
+     ],
+     "facing": -0.785,
+     "visible": false
+    }
+   }
+  },
+  "car_albedo_135_L": {
+   "frame": {
+    "x": 1786,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "heading": 135,
+   "steer": "L",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       97.73,
+       45.13
+      ],
+      [
+       117.27,
+       62.25
+      ],
+      [
+       90.75,
+       78.69
+      ],
+      [
+       71.22,
+       61.57
+      ]
+     ],
+     "facing": 0.729,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       66.52,
+       56.82
+      ],
+      [
+       85.01,
+       73.02
+      ],
+      [
+       83.07,
+       81.14
+      ],
+      [
+       64.58,
+       64.94
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       118.75,
+       52.1
+      ],
+      [
+       100.26,
+       35.9
+      ],
+      [
+       98.32,
+       44.02
+      ],
+      [
+       116.81,
+       60.22
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    }
+   }
+  },
+  "car_albedo_135_C": {
+   "frame": {
+    "x": 4,
+    "y": 202,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "heading": 135,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       97.73,
+       45.13
+      ],
+      [
+       117.27,
+       62.25
+      ],
+      [
+       90.75,
+       78.69
+      ],
+      [
+       71.22,
+       61.57
+      ]
+     ],
+     "facing": 0.729,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       66.52,
+       56.82
+      ],
+      [
+       85.01,
+       73.02
+      ],
+      [
+       83.07,
+       81.14
+      ],
+      [
+       64.58,
+       64.94
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       118.75,
+       52.1
+      ],
+      [
+       100.26,
+       35.9
+      ],
+      [
+       98.32,
+       44.02
+      ],
+      [
+       116.81,
+       60.22
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    }
+   }
+  },
+  "car_albedo_135_R": {
+   "frame": {
+    "x": 202,
+    "y": 202,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "heading": 135,
+   "steer": "R",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       97.73,
+       45.13
+      ],
+      [
+       117.27,
+       62.25
+      ],
+      [
+       90.75,
+       78.69
+      ],
+      [
+       71.22,
+       61.57
+      ]
+     ],
+     "facing": 0.729,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       66.52,
+       56.82
+      ],
+      [
+       85.01,
+       73.02
+      ],
+      [
+       83.07,
+       81.14
+      ],
+      [
+       64.58,
+       64.94
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    },
+    "board_left": {
+     "corners": [
+      [
+       118.75,
+       52.1
+      ],
+      [
+       100.26,
+       35.9
+      ],
+      [
+       98.32,
+       44.02
+      ],
+      [
+       116.81,
+       60.22
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    }
+   }
+  }
+ },
+ "meta": {
+  "app": "CK2 Art Bot pack_atlas.py (TexturePacker JSON Hash compatible)",
+  "version": "1.0",
+  "image": "car_albedo_0.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2048,
+   "h": 2048
+  },
+  "scale": "1",
+  "pivot": {
+   "x": 0.5,
+   "y": 0.5
+  },
+  "pivotMeaning": "ground point directly under the rear-axle centre (same px in every frame)",
+  "axleCentrePx": [
+   96.0,
+   86.81
+  ],
+  "headings": 72,
+  "headingsInThisTest": [
+   0,
+   45,
+   90,
+   135
+  ],
+  "headingStepDeg": 5,
+  "heading0": "nose pointing up the screen (world +Y / away from camera)",
+  "headingDirection": "clockwise",
+  "steerPoses": {
+   "L": 15,
+   "C": 0,
+   "R": -15
+  },
+  "steerNote": "front-wheel yaw in deg, +=left (CCW from above)",
+  "camTiltDeg": 51.7,
+  "camElevDeg": 38.3,
+  "projection": "orthographic",
+  "squash": 0.62,
+  "heightScale": 0.785,
+  "orthoScaleM": 6.8,
+  "pxPerMeter": 28.2353,
+  "frameSize": {
+   "w": 192,
+   "h": 192
+  },
+  "extrude": 2,
+  "padding": 2,
+  "border": 2,
+  "trim": false,
+  "rotation": false,
+  "layer": "albedo",
+  "layerSpec": "lit colour, straight alpha, sRGB; livery paint rendered neutral grey (linear 0.80 = sRGB 231)",
+  "paintGreyLinear": 0.8,
+  "keyLight": "sun from screen upper-left, fixed in camera space for every heading",
+  "relatedLayers": [
+   "car_mask_0.json",
+   "car_shadow_0.json"
+  ]
+ }
+}
