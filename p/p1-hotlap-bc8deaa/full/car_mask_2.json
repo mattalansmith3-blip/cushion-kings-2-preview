@@ -1,0 +1,9997 @@
+{
+ "frames": {
+  "car_mask_200_L2": {
+   "frame": {
+    "x": 4,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 200,
+   "heading": 200,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       80.04,
+       46.9
+      ],
+      [
+       113.2,
+       54.39
+      ],
+      [
+       103.02,
+       82.36
+      ],
+      [
+       69.86,
+       74.88
+      ]
+     ],
+     "facing": 0.87,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       73.41,
+       40.48
+      ],
+      [
+       63.45,
+       67.87
+      ],
+      [
+       65.67,
+       75.29
+      ],
+      [
+       75.64,
+       47.9
+      ]
+     ],
+     "facing": -0.268,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       104.49,
+       77.13
+      ],
+      [
+       114.46,
+       49.74
+      ],
+      [
+       116.68,
+       57.16
+      ],
+      [
+       106.72,
+       84.55
+      ]
+     ],
+     "facing": 0.268,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_200_L1": {
+   "frame": {
+    "x": 202,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 201,
+   "heading": 200,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       80.04,
+       46.9
+      ],
+      [
+       113.2,
+       54.39
+      ],
+      [
+       103.02,
+       82.36
+      ],
+      [
+       69.86,
+       74.88
+      ]
+     ],
+     "facing": 0.87,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       73.41,
+       40.48
+      ],
+      [
+       63.45,
+       67.87
+      ],
+      [
+       65.67,
+       75.29
+      ],
+      [
+       75.64,
+       47.9
+      ]
+     ],
+     "facing": -0.268,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       104.49,
+       77.13
+      ],
+      [
+       114.46,
+       49.74
+      ],
+      [
+       116.68,
+       57.16
+      ],
+      [
+       106.72,
+       84.55
+      ]
+     ],
+     "facing": 0.268,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_200_C": {
+   "frame": {
+    "x": 400,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 202,
+   "heading": 200,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       80.04,
+       46.9
+      ],
+      [
+       113.2,
+       54.39
+      ],
+      [
+       103.02,
+       82.36
+      ],
+      [
+       69.86,
+       74.88
+      ]
+     ],
+     "facing": 0.87,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       73.41,
+       40.48
+      ],
+      [
+       63.45,
+       67.87
+      ],
+      [
+       65.67,
+       75.29
+      ],
+      [
+       75.64,
+       47.9
+      ]
+     ],
+     "facing": -0.268,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       104.49,
+       77.13
+      ],
+      [
+       114.46,
+       49.74
+      ],
+      [
+       116.68,
+       57.16
+      ],
+      [
+       106.72,
+       84.55
+      ]
+     ],
+     "facing": 0.268,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_200_R1": {
+   "frame": {
+    "x": 598,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 203,
+   "heading": 200,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       80.04,
+       46.9
+      ],
+      [
+       113.2,
+       54.39
+      ],
+      [
+       103.02,
+       82.36
+      ],
+      [
+       69.86,
+       74.88
+      ]
+     ],
+     "facing": 0.87,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       73.41,
+       40.48
+      ],
+      [
+       63.45,
+       67.87
+      ],
+      [
+       65.67,
+       75.29
+      ],
+      [
+       75.64,
+       47.9
+      ]
+     ],
+     "facing": -0.268,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       104.49,
+       77.13
+      ],
+      [
+       114.46,
+       49.74
+      ],
+      [
+       116.68,
+       57.16
+      ],
+      [
+       106.72,
+       84.55
+      ]
+     ],
+     "facing": 0.268,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_200_R2": {
+   "frame": {
+    "x": 796,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 204,
+   "heading": 200,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       80.04,
+       46.9
+      ],
+      [
+       113.2,
+       54.39
+      ],
+      [
+       103.02,
+       82.36
+      ],
+      [
+       69.86,
+       74.88
+      ]
+     ],
+     "facing": 0.87,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       73.41,
+       40.48
+      ],
+      [
+       63.45,
+       67.87
+      ],
+      [
+       65.67,
+       75.29
+      ],
+      [
+       75.64,
+       47.9
+      ]
+     ],
+     "facing": -0.268,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       104.49,
+       77.13
+      ],
+      [
+       114.46,
+       49.74
+      ],
+      [
+       116.68,
+       57.16
+      ],
+      [
+       106.72,
+       84.55
+      ]
+     ],
+     "facing": 0.268,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_205_L2": {
+   "frame": {
+    "x": 994,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 205,
+   "heading": 205,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       80.78,
+       46.06
+      ],
+      [
+       112.76,
+       55.31
+      ],
+      [
+       100.18,
+       82.67
+      ],
+      [
+       68.2,
+       73.42
+      ]
+     ],
+     "facing": 0.859,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       73.65,
+       39.26
+      ],
+      [
+       61.34,
+       66.05
+      ],
+      [
+       64.09,
+       73.6
+      ],
+      [
+       76.4,
+       46.82
+      ]
+     ],
+     "facing": -0.332,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       100.93,
+       77.5
+      ],
+      [
+       113.24,
+       50.71
+      ],
+      [
+       115.99,
+       58.26
+      ],
+      [
+       103.68,
+       85.05
+      ]
+     ],
+     "facing": 0.332,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_205_L1": {
+   "frame": {
+    "x": 1192,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 206,
+   "heading": 205,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       80.78,
+       46.06
+      ],
+      [
+       112.76,
+       55.31
+      ],
+      [
+       100.18,
+       82.67
+      ],
+      [
+       68.2,
+       73.42
+      ]
+     ],
+     "facing": 0.859,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       73.65,
+       39.26
+      ],
+      [
+       61.34,
+       66.05
+      ],
+      [
+       64.09,
+       73.6
+      ],
+      [
+       76.4,
+       46.82
+      ]
+     ],
+     "facing": -0.332,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       100.93,
+       77.5
+      ],
+      [
+       113.24,
+       50.71
+      ],
+      [
+       115.99,
+       58.26
+      ],
+      [
+       103.68,
+       85.05
+      ]
+     ],
+     "facing": 0.332,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_205_C": {
+   "frame": {
+    "x": 1390,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 207,
+   "heading": 205,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       80.78,
+       46.06
+      ],
+      [
+       112.76,
+       55.31
+      ],
+      [
+       100.18,
+       82.67
+      ],
+      [
+       68.2,
+       73.42
+      ]
+     ],
+     "facing": 0.859,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       73.65,
+       39.26
+      ],
+      [
+       61.34,
+       66.05
+      ],
+      [
+       64.09,
+       73.6
+      ],
+      [
+       76.4,
+       46.82
+      ]
+     ],
+     "facing": -0.332,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       100.93,
+       77.5
+      ],
+      [
+       113.24,
+       50.71
+      ],
+      [
+       115.99,
+       58.26
+      ],
+      [
+       103.68,
+       85.05
+      ]
+     ],
+     "facing": 0.332,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_205_R1": {
+   "frame": {
+    "x": 1588,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 208,
+   "heading": 205,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       80.78,
+       46.06
+      ],
+      [
+       112.76,
+       55.31
+      ],
+      [
+       100.18,
+       82.67
+      ],
+      [
+       68.2,
+       73.42
+      ]
+     ],
+     "facing": 0.859,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       73.65,
+       39.26
+      ],
+      [
+       61.34,
+       66.05
+      ],
+      [
+       64.09,
+       73.6
+      ],
+      [
+       76.4,
+       46.82
+      ]
+     ],
+     "facing": -0.332,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       100.93,
+       77.5
+      ],
+      [
+       113.24,
+       50.71
+      ],
+      [
+       115.99,
+       58.26
+      ],
+      [
+       103.68,
+       85.05
+      ]
+     ],
+     "facing": 0.332,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_205_R2": {
+   "frame": {
+    "x": 1786,
+    "y": 4,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 209,
+   "heading": 205,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       80.78,
+       46.06
+      ],
+      [
+       112.76,
+       55.31
+      ],
+      [
+       100.18,
+       82.67
+      ],
+      [
+       68.2,
+       73.42
+      ]
+     ],
+     "facing": 0.859,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       73.65,
+       39.26
+      ],
+      [
+       61.34,
+       66.05
+      ],
+      [
+       64.09,
+       73.6
+      ],
+      [
+       76.4,
+       46.82
+      ]
+     ],
+     "facing": -0.332,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       100.93,
+       77.5
+      ],
+      [
+       113.24,
+       50.71
+      ],
+      [
+       115.99,
+       58.26
+      ],
+      [
+       103.68,
+       85.05
+      ]
+     ],
+     "facing": 0.332,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_210_L2": {
+   "frame": {
+    "x": 4,
+    "y": 202,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 210,
+   "heading": 210,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       81.63,
+       45.26
+      ],
+      [
+       112.19,
+       56.2
+      ],
+      [
+       97.31,
+       82.82
+      ],
+      [
+       66.75,
+       71.88
+      ]
+     ],
+     "facing": 0.846,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       74.07,
+       38.07
+      ],
+      [
+       59.5,
+       64.12
+      ],
+      [
+       62.75,
+       71.84
+      ],
+      [
+       77.32,
+       45.78
+      ]
+     ],
+     "facing": -0.392,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       97.33,
+       77.67
+      ],
+      [
+       111.89,
+       51.61
+      ],
+      [
+       115.15,
+       59.32
+      ],
+      [
+       100.58,
+       85.38
+      ]
+     ],
+     "facing": 0.392,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_210_L1": {
+   "frame": {
+    "x": 202,
+    "y": 202,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 211,
+   "heading": 210,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       81.63,
+       45.26
+      ],
+      [
+       112.19,
+       56.2
+      ],
+      [
+       97.31,
+       82.82
+      ],
+      [
+       66.75,
+       71.88
+      ]
+     ],
+     "facing": 0.846,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       74.07,
+       38.07
+      ],
+      [
+       59.5,
+       64.12
+      ],
+      [
+       62.75,
+       71.84
+      ],
+      [
+       77.32,
+       45.78
+      ]
+     ],
+     "facing": -0.392,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       97.33,
+       77.67
+      ],
+      [
+       111.89,
+       51.61
+      ],
+      [
+       115.15,
+       59.32
+      ],
+      [
+       100.58,
+       85.38
+      ]
+     ],
+     "facing": 0.392,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_210_C": {
+   "frame": {
+    "x": 400,
+    "y": 202,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 212,
+   "heading": 210,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       81.63,
+       45.26
+      ],
+      [
+       112.19,
+       56.2
+      ],
+      [
+       97.31,
+       82.82
+      ],
+      [
+       66.75,
+       71.88
+      ]
+     ],
+     "facing": 0.846,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       74.07,
+       38.07
+      ],
+      [
+       59.5,
+       64.12
+      ],
+      [
+       62.75,
+       71.84
+      ],
+      [
+       77.32,
+       45.78
+      ]
+     ],
+     "facing": -0.392,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       97.33,
+       77.67
+      ],
+      [
+       111.89,
+       51.61
+      ],
+      [
+       115.15,
+       59.32
+      ],
+      [
+       100.58,
+       85.38
+      ]
+     ],
+     "facing": 0.392,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_210_R1": {
+   "frame": {
+    "x": 598,
+    "y": 202,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 213,
+   "heading": 210,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       81.63,
+       45.26
+      ],
+      [
+       112.19,
+       56.2
+      ],
+      [
+       97.31,
+       82.82
+      ],
+      [
+       66.75,
+       71.88
+      ]
+     ],
+     "facing": 0.846,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       74.07,
+       38.07
+      ],
+      [
+       59.5,
+       64.12
+      ],
+      [
+       62.75,
+       71.84
+      ],
+      [
+       77.32,
+       45.78
+      ]
+     ],
+     "facing": -0.392,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       97.33,
+       77.67
+      ],
+      [
+       111.89,
+       51.61
+      ],
+      [
+       115.15,
+       59.32
+      ],
+      [
+       100.58,
+       85.38
+      ]
+     ],
+     "facing": 0.392,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_210_R2": {
+   "frame": {
+    "x": 796,
+    "y": 202,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 214,
+   "heading": 210,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       81.63,
+       45.26
+      ],
+      [
+       112.19,
+       56.2
+      ],
+      [
+       97.31,
+       82.82
+      ],
+      [
+       66.75,
+       71.88
+      ]
+     ],
+     "facing": 0.846,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       74.07,
+       38.07
+      ],
+      [
+       59.5,
+       64.12
+      ],
+      [
+       62.75,
+       71.84
+      ],
+      [
+       77.32,
+       45.78
+      ]
+     ],
+     "facing": -0.392,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       97.33,
+       77.67
+      ],
+      [
+       111.89,
+       51.61
+      ],
+      [
+       115.15,
+       59.32
+      ],
+      [
+       100.58,
+       85.38
+      ]
+     ],
+     "facing": 0.392,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_215_L2": {
+   "frame": {
+    "x": 994,
+    "y": 202,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 215,
+   "heading": 215,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       82.59,
+       44.51
+      ],
+      [
+       111.49,
+       57.05
+      ],
+      [
+       94.43,
+       82.81
+      ],
+      [
+       65.52,
+       70.26
+      ]
+     ],
+     "facing": 0.831,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       74.64,
+       36.89
+      ],
+      [
+       57.93,
+       62.11
+      ],
+      [
+       61.67,
+       70.01
+      ],
+      [
+       78.38,
+       44.8
+      ]
+     ],
+     "facing": -0.45,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       93.72,
+       77.64
+      ],
+      [
+       110.42,
+       52.43
+      ],
+      [
+       114.16,
+       60.33
+      ],
+      [
+       97.45,
+       85.54
+      ]
+     ],
+     "facing": 0.45,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_215_L1": {
+   "frame": {
+    "x": 1192,
+    "y": 202,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 216,
+   "heading": 215,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       82.59,
+       44.51
+      ],
+      [
+       111.49,
+       57.05
+      ],
+      [
+       94.43,
+       82.81
+      ],
+      [
+       65.52,
+       70.26
+      ]
+     ],
+     "facing": 0.831,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       74.64,
+       36.89
+      ],
+      [
+       57.93,
+       62.11
+      ],
+      [
+       61.67,
+       70.01
+      ],
+      [
+       78.38,
+       44.8
+      ]
+     ],
+     "facing": -0.45,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       93.72,
+       77.64
+      ],
+      [
+       110.42,
+       52.43
+      ],
+      [
+       114.16,
+       60.33
+      ],
+      [
+       97.45,
+       85.54
+      ]
+     ],
+     "facing": 0.45,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_215_C": {
+   "frame": {
+    "x": 1390,
+    "y": 202,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 217,
+   "heading": 215,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       82.59,
+       44.51
+      ],
+      [
+       111.49,
+       57.05
+      ],
+      [
+       94.43,
+       82.81
+      ],
+      [
+       65.52,
+       70.26
+      ]
+     ],
+     "facing": 0.831,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       74.64,
+       36.89
+      ],
+      [
+       57.93,
+       62.11
+      ],
+      [
+       61.67,
+       70.01
+      ],
+      [
+       78.38,
+       44.8
+      ]
+     ],
+     "facing": -0.45,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       93.72,
+       77.64
+      ],
+      [
+       110.42,
+       52.43
+      ],
+      [
+       114.16,
+       60.33
+      ],
+      [
+       97.45,
+       85.54
+      ]
+     ],
+     "facing": 0.45,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_215_R1": {
+   "frame": {
+    "x": 1588,
+    "y": 202,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 218,
+   "heading": 215,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       82.59,
+       44.51
+      ],
+      [
+       111.49,
+       57.05
+      ],
+      [
+       94.43,
+       82.81
+      ],
+      [
+       65.52,
+       70.26
+      ]
+     ],
+     "facing": 0.831,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       74.64,
+       36.89
+      ],
+      [
+       57.93,
+       62.11
+      ],
+      [
+       61.67,
+       70.01
+      ],
+      [
+       78.38,
+       44.8
+      ]
+     ],
+     "facing": -0.45,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       93.72,
+       77.64
+      ],
+      [
+       110.42,
+       52.43
+      ],
+      [
+       114.16,
+       60.33
+      ],
+      [
+       97.45,
+       85.54
+      ]
+     ],
+     "facing": 0.45,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_215_R2": {
+   "frame": {
+    "x": 1786,
+    "y": 202,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 219,
+   "heading": 215,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       82.59,
+       44.51
+      ],
+      [
+       111.49,
+       57.05
+      ],
+      [
+       94.43,
+       82.81
+      ],
+      [
+       65.52,
+       70.26
+      ]
+     ],
+     "facing": 0.831,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       74.64,
+       36.89
+      ],
+      [
+       57.93,
+       62.11
+      ],
+      [
+       61.67,
+       70.01
+      ],
+      [
+       78.38,
+       44.8
+      ]
+     ],
+     "facing": -0.45,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       93.72,
+       77.64
+      ],
+      [
+       110.42,
+       52.43
+      ],
+      [
+       114.16,
+       60.33
+      ],
+      [
+       97.45,
+       85.54
+      ]
+     ],
+     "facing": 0.45,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_220_L2": {
+   "frame": {
+    "x": 4,
+    "y": 400,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 220,
+   "heading": 220,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       83.65,
+       43.81
+      ],
+      [
+       110.68,
+       57.87
+      ],
+      [
+       91.55,
+       82.65
+      ],
+      [
+       64.52,
+       68.58
+      ]
+     ],
+     "facing": 0.813,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       75.39,
+       35.76
+      ],
+      [
+       56.66,
+       60.01
+      ],
+      [
+       60.85,
+       68.13
+      ],
+      [
+       79.57,
+       43.88
+      ]
+     ],
+     "facing": -0.504,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       90.12,
+       77.42
+      ],
+      [
+       108.85,
+       53.17
+      ],
+      [
+       113.03,
+       61.28
+      ],
+      [
+       94.31,
+       85.54
+      ]
+     ],
+     "facing": 0.504,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_220_L1": {
+   "frame": {
+    "x": 202,
+    "y": 400,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 221,
+   "heading": 220,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       83.65,
+       43.81
+      ],
+      [
+       110.68,
+       57.87
+      ],
+      [
+       91.55,
+       82.65
+      ],
+      [
+       64.52,
+       68.58
+      ]
+     ],
+     "facing": 0.813,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       75.39,
+       35.76
+      ],
+      [
+       56.66,
+       60.01
+      ],
+      [
+       60.85,
+       68.13
+      ],
+      [
+       79.57,
+       43.88
+      ]
+     ],
+     "facing": -0.504,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       90.12,
+       77.42
+      ],
+      [
+       108.85,
+       53.17
+      ],
+      [
+       113.03,
+       61.28
+      ],
+      [
+       94.31,
+       85.54
+      ]
+     ],
+     "facing": 0.504,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_220_C": {
+   "frame": {
+    "x": 400,
+    "y": 400,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 222,
+   "heading": 220,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       83.65,
+       43.81
+      ],
+      [
+       110.68,
+       57.87
+      ],
+      [
+       91.55,
+       82.65
+      ],
+      [
+       64.52,
+       68.58
+      ]
+     ],
+     "facing": 0.813,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       75.39,
+       35.76
+      ],
+      [
+       56.66,
+       60.01
+      ],
+      [
+       60.85,
+       68.13
+      ],
+      [
+       79.57,
+       43.88
+      ]
+     ],
+     "facing": -0.504,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       90.12,
+       77.42
+      ],
+      [
+       108.85,
+       53.17
+      ],
+      [
+       113.03,
+       61.28
+      ],
+      [
+       94.31,
+       85.54
+      ]
+     ],
+     "facing": 0.504,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_220_R1": {
+   "frame": {
+    "x": 598,
+    "y": 400,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 223,
+   "heading": 220,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       83.65,
+       43.81
+      ],
+      [
+       110.68,
+       57.87
+      ],
+      [
+       91.55,
+       82.65
+      ],
+      [
+       64.52,
+       68.58
+      ]
+     ],
+     "facing": 0.813,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       75.39,
+       35.76
+      ],
+      [
+       56.66,
+       60.01
+      ],
+      [
+       60.85,
+       68.13
+      ],
+      [
+       79.57,
+       43.88
+      ]
+     ],
+     "facing": -0.504,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       90.12,
+       77.42
+      ],
+      [
+       108.85,
+       53.17
+      ],
+      [
+       113.03,
+       61.28
+      ],
+      [
+       94.31,
+       85.54
+      ]
+     ],
+     "facing": 0.504,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_220_R2": {
+   "frame": {
+    "x": 796,
+    "y": 400,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 224,
+   "heading": 220,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       83.65,
+       43.81
+      ],
+      [
+       110.68,
+       57.87
+      ],
+      [
+       91.55,
+       82.65
+      ],
+      [
+       64.52,
+       68.58
+      ]
+     ],
+     "facing": 0.813,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       75.39,
+       35.76
+      ],
+      [
+       56.66,
+       60.01
+      ],
+      [
+       60.85,
+       68.13
+      ],
+      [
+       79.57,
+       43.88
+      ]
+     ],
+     "facing": -0.504,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       90.12,
+       77.42
+      ],
+      [
+       108.85,
+       53.17
+      ],
+      [
+       113.03,
+       61.28
+      ],
+      [
+       94.31,
+       85.54
+      ]
+     ],
+     "facing": 0.504,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_225_L2": {
+   "frame": {
+    "x": 994,
+    "y": 400,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 225,
+   "heading": 225,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       84.81,
+       43.17
+      ],
+      [
+       109.76,
+       58.64
+      ],
+      [
+       88.72,
+       82.33
+      ],
+      [
+       63.77,
+       66.86
+      ]
+     ],
+     "facing": 0.794,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       76.28,
+       34.67
+      ],
+      [
+       55.69,
+       57.85
+      ],
+      [
+       60.29,
+       66.21
+      ],
+      [
+       80.89,
+       43.02
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       86.57,
+       77.0
+      ],
+      [
+       107.17,
+       53.82
+      ],
+      [
+       111.78,
+       62.17
+      ],
+      [
+       91.18,
+       85.36
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_225_L1": {
+   "frame": {
+    "x": 1192,
+    "y": 400,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 226,
+   "heading": 225,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       84.81,
+       43.17
+      ],
+      [
+       109.76,
+       58.64
+      ],
+      [
+       88.72,
+       82.33
+      ],
+      [
+       63.77,
+       66.86
+      ]
+     ],
+     "facing": 0.794,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       76.28,
+       34.67
+      ],
+      [
+       55.69,
+       57.85
+      ],
+      [
+       60.29,
+       66.21
+      ],
+      [
+       80.89,
+       43.02
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       86.57,
+       77.0
+      ],
+      [
+       107.17,
+       53.82
+      ],
+      [
+       111.78,
+       62.17
+      ],
+      [
+       91.18,
+       85.36
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_225_C": {
+   "frame": {
+    "x": 1390,
+    "y": 400,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 227,
+   "heading": 225,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       84.81,
+       43.17
+      ],
+      [
+       109.76,
+       58.64
+      ],
+      [
+       88.72,
+       82.33
+      ],
+      [
+       63.77,
+       66.86
+      ]
+     ],
+     "facing": 0.794,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       76.28,
+       34.67
+      ],
+      [
+       55.69,
+       57.85
+      ],
+      [
+       60.29,
+       66.21
+      ],
+      [
+       80.89,
+       43.02
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       86.57,
+       77.0
+      ],
+      [
+       107.17,
+       53.82
+      ],
+      [
+       111.78,
+       62.17
+      ],
+      [
+       91.18,
+       85.36
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_225_R1": {
+   "frame": {
+    "x": 1588,
+    "y": 400,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 228,
+   "heading": 225,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       84.81,
+       43.17
+      ],
+      [
+       109.76,
+       58.64
+      ],
+      [
+       88.72,
+       82.33
+      ],
+      [
+       63.77,
+       66.86
+      ]
+     ],
+     "facing": 0.794,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       76.28,
+       34.67
+      ],
+      [
+       55.69,
+       57.85
+      ],
+      [
+       60.29,
+       66.21
+      ],
+      [
+       80.89,
+       43.02
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       86.57,
+       77.0
+      ],
+      [
+       107.17,
+       53.82
+      ],
+      [
+       111.78,
+       62.17
+      ],
+      [
+       91.18,
+       85.36
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_225_R2": {
+   "frame": {
+    "x": 1786,
+    "y": 400,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 229,
+   "heading": 225,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       84.81,
+       43.17
+      ],
+      [
+       109.76,
+       58.64
+      ],
+      [
+       88.72,
+       82.33
+      ],
+      [
+       63.77,
+       66.86
+      ]
+     ],
+     "facing": 0.794,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       76.28,
+       34.67
+      ],
+      [
+       55.69,
+       57.85
+      ],
+      [
+       60.29,
+       66.21
+      ],
+      [
+       80.89,
+       43.02
+      ]
+     ],
+     "facing": -0.555,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       86.57,
+       77.0
+      ],
+      [
+       107.17,
+       53.82
+      ],
+      [
+       111.78,
+       62.17
+      ],
+      [
+       91.18,
+       85.36
+      ]
+     ],
+     "facing": 0.555,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_230_L2": {
+   "frame": {
+    "x": 4,
+    "y": 598,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 230,
+   "heading": 230,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       86.05,
+       42.6
+      ],
+      [
+       108.73,
+       59.36
+      ],
+      [
+       85.94,
+       81.86
+      ],
+      [
+       63.26,
+       65.1
+      ]
+     ],
+     "facing": 0.773,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       77.33,
+       33.63
+      ],
+      [
+       55.02,
+       55.65
+      ],
+      [
+       60.0,
+       64.27
+      ],
+      [
+       82.32,
+       42.24
+      ]
+     ],
+     "facing": -0.601,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       83.09,
+       76.4
+      ],
+      [
+       105.41,
+       54.37
+      ],
+      [
+       110.4,
+       62.99
+      ],
+      [
+       88.08,
+       85.01
+      ]
+     ],
+     "facing": 0.601,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_230_L1": {
+   "frame": {
+    "x": 202,
+    "y": 598,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 231,
+   "heading": 230,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       86.05,
+       42.6
+      ],
+      [
+       108.73,
+       59.36
+      ],
+      [
+       85.94,
+       81.86
+      ],
+      [
+       63.26,
+       65.1
+      ]
+     ],
+     "facing": 0.773,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       77.33,
+       33.63
+      ],
+      [
+       55.02,
+       55.65
+      ],
+      [
+       60.0,
+       64.27
+      ],
+      [
+       82.32,
+       42.24
+      ]
+     ],
+     "facing": -0.601,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       83.09,
+       76.4
+      ],
+      [
+       105.41,
+       54.37
+      ],
+      [
+       110.4,
+       62.99
+      ],
+      [
+       88.08,
+       85.01
+      ]
+     ],
+     "facing": 0.601,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_230_C": {
+   "frame": {
+    "x": 400,
+    "y": 598,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 232,
+   "heading": 230,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       86.05,
+       42.6
+      ],
+      [
+       108.73,
+       59.36
+      ],
+      [
+       85.94,
+       81.86
+      ],
+      [
+       63.26,
+       65.1
+      ]
+     ],
+     "facing": 0.773,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       77.33,
+       33.63
+      ],
+      [
+       55.02,
+       55.65
+      ],
+      [
+       60.0,
+       64.27
+      ],
+      [
+       82.32,
+       42.24
+      ]
+     ],
+     "facing": -0.601,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       83.09,
+       76.4
+      ],
+      [
+       105.41,
+       54.37
+      ],
+      [
+       110.4,
+       62.99
+      ],
+      [
+       88.08,
+       85.01
+      ]
+     ],
+     "facing": 0.601,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_230_R1": {
+   "frame": {
+    "x": 598,
+    "y": 598,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 233,
+   "heading": 230,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       86.05,
+       42.6
+      ],
+      [
+       108.73,
+       59.36
+      ],
+      [
+       85.94,
+       81.86
+      ],
+      [
+       63.26,
+       65.1
+      ]
+     ],
+     "facing": 0.773,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       77.33,
+       33.63
+      ],
+      [
+       55.02,
+       55.65
+      ],
+      [
+       60.0,
+       64.27
+      ],
+      [
+       82.32,
+       42.24
+      ]
+     ],
+     "facing": -0.601,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       83.09,
+       76.4
+      ],
+      [
+       105.41,
+       54.37
+      ],
+      [
+       110.4,
+       62.99
+      ],
+      [
+       88.08,
+       85.01
+      ]
+     ],
+     "facing": 0.601,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_230_R2": {
+   "frame": {
+    "x": 796,
+    "y": 598,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 234,
+   "heading": 230,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       86.05,
+       42.6
+      ],
+      [
+       108.73,
+       59.36
+      ],
+      [
+       85.94,
+       81.86
+      ],
+      [
+       63.26,
+       65.1
+      ]
+     ],
+     "facing": 0.773,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       77.33,
+       33.63
+      ],
+      [
+       55.02,
+       55.65
+      ],
+      [
+       60.0,
+       64.27
+      ],
+      [
+       82.32,
+       42.24
+      ]
+     ],
+     "facing": -0.601,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       83.09,
+       76.4
+      ],
+      [
+       105.41,
+       54.37
+      ],
+      [
+       110.4,
+       62.99
+      ],
+      [
+       88.08,
+       85.01
+      ]
+     ],
+     "facing": 0.601,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_235_L2": {
+   "frame": {
+    "x": 994,
+    "y": 598,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 235,
+   "heading": 235,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       87.37,
+       42.1
+      ],
+      [
+       107.61,
+       60.02
+      ],
+      [
+       83.23,
+       81.24
+      ],
+      [
+       62.99,
+       63.32
+      ]
+     ],
+     "facing": 0.751,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       78.52,
+       32.65
+      ],
+      [
+       54.66,
+       53.43
+      ],
+      [
+       59.99,
+       62.32
+      ],
+      [
+       83.86,
+       41.54
+      ]
+     ],
+     "facing": -0.643,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       79.71,
+       75.61
+      ],
+      [
+       103.58,
+       54.83
+      ],
+      [
+       108.91,
+       63.73
+      ],
+      [
+       85.05,
+       84.5
+      ]
+     ],
+     "facing": 0.643,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_235_L1": {
+   "frame": {
+    "x": 1192,
+    "y": 598,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 236,
+   "heading": 235,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       87.37,
+       42.1
+      ],
+      [
+       107.61,
+       60.02
+      ],
+      [
+       83.23,
+       81.24
+      ],
+      [
+       62.99,
+       63.32
+      ]
+     ],
+     "facing": 0.751,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       78.52,
+       32.65
+      ],
+      [
+       54.66,
+       53.43
+      ],
+      [
+       59.99,
+       62.32
+      ],
+      [
+       83.86,
+       41.54
+      ]
+     ],
+     "facing": -0.643,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       79.71,
+       75.61
+      ],
+      [
+       103.58,
+       54.83
+      ],
+      [
+       108.91,
+       63.73
+      ],
+      [
+       85.05,
+       84.5
+      ]
+     ],
+     "facing": 0.643,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_235_C": {
+   "frame": {
+    "x": 1390,
+    "y": 598,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 237,
+   "heading": 235,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       87.37,
+       42.1
+      ],
+      [
+       107.61,
+       60.02
+      ],
+      [
+       83.23,
+       81.24
+      ],
+      [
+       62.99,
+       63.32
+      ]
+     ],
+     "facing": 0.751,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       78.52,
+       32.65
+      ],
+      [
+       54.66,
+       53.43
+      ],
+      [
+       59.99,
+       62.32
+      ],
+      [
+       83.86,
+       41.54
+      ]
+     ],
+     "facing": -0.643,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       79.71,
+       75.61
+      ],
+      [
+       103.58,
+       54.83
+      ],
+      [
+       108.91,
+       63.73
+      ],
+      [
+       85.05,
+       84.5
+      ]
+     ],
+     "facing": 0.643,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_235_R1": {
+   "frame": {
+    "x": 1588,
+    "y": 598,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 238,
+   "heading": 235,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       87.37,
+       42.1
+      ],
+      [
+       107.61,
+       60.02
+      ],
+      [
+       83.23,
+       81.24
+      ],
+      [
+       62.99,
+       63.32
+      ]
+     ],
+     "facing": 0.751,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       78.52,
+       32.65
+      ],
+      [
+       54.66,
+       53.43
+      ],
+      [
+       59.99,
+       62.32
+      ],
+      [
+       83.86,
+       41.54
+      ]
+     ],
+     "facing": -0.643,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       79.71,
+       75.61
+      ],
+      [
+       103.58,
+       54.83
+      ],
+      [
+       108.91,
+       63.73
+      ],
+      [
+       85.05,
+       84.5
+      ]
+     ],
+     "facing": 0.643,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_235_R2": {
+   "frame": {
+    "x": 1786,
+    "y": 598,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 239,
+   "heading": 235,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       87.37,
+       42.1
+      ],
+      [
+       107.61,
+       60.02
+      ],
+      [
+       83.23,
+       81.24
+      ],
+      [
+       62.99,
+       63.32
+      ]
+     ],
+     "facing": 0.751,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       78.52,
+       32.65
+      ],
+      [
+       54.66,
+       53.43
+      ],
+      [
+       59.99,
+       62.32
+      ],
+      [
+       83.86,
+       41.54
+      ]
+     ],
+     "facing": -0.643,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       79.71,
+       75.61
+      ],
+      [
+       103.58,
+       54.83
+      ],
+      [
+       108.91,
+       63.73
+      ],
+      [
+       85.05,
+       84.5
+      ]
+     ],
+     "facing": 0.643,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_240_L2": {
+   "frame": {
+    "x": 4,
+    "y": 796,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 240,
+   "heading": 240,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       88.75,
+       41.67
+      ],
+      [
+       106.4,
+       60.61
+      ],
+      [
+       80.62,
+       80.48
+      ],
+      [
+       62.98,
+       61.53
+      ]
+     ],
+     "facing": 0.727,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       79.85,
+       31.74
+      ],
+      [
+       54.62,
+       51.19
+      ],
+      [
+       60.26,
+       60.38
+      ],
+      [
+       85.49,
+       40.93
+      ]
+     ],
+     "facing": -0.679,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       76.46,
+       74.64
+      ],
+      [
+       101.69,
+       55.19
+      ],
+      [
+       107.33,
+       64.38
+      ],
+      [
+       82.1,
+       83.83
+      ]
+     ],
+     "facing": 0.679,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_240_L1": {
+   "frame": {
+    "x": 202,
+    "y": 796,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 241,
+   "heading": 240,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       88.75,
+       41.67
+      ],
+      [
+       106.4,
+       60.61
+      ],
+      [
+       80.62,
+       80.48
+      ],
+      [
+       62.98,
+       61.53
+      ]
+     ],
+     "facing": 0.727,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       79.85,
+       31.74
+      ],
+      [
+       54.62,
+       51.19
+      ],
+      [
+       60.26,
+       60.38
+      ],
+      [
+       85.49,
+       40.93
+      ]
+     ],
+     "facing": -0.679,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       76.46,
+       74.64
+      ],
+      [
+       101.69,
+       55.19
+      ],
+      [
+       107.33,
+       64.38
+      ],
+      [
+       82.1,
+       83.83
+      ]
+     ],
+     "facing": 0.679,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_240_C": {
+   "frame": {
+    "x": 400,
+    "y": 796,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 242,
+   "heading": 240,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       88.75,
+       41.67
+      ],
+      [
+       106.4,
+       60.61
+      ],
+      [
+       80.62,
+       80.48
+      ],
+      [
+       62.98,
+       61.53
+      ]
+     ],
+     "facing": 0.727,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       79.85,
+       31.74
+      ],
+      [
+       54.62,
+       51.19
+      ],
+      [
+       60.26,
+       60.38
+      ],
+      [
+       85.49,
+       40.93
+      ]
+     ],
+     "facing": -0.679,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       76.46,
+       74.64
+      ],
+      [
+       101.69,
+       55.19
+      ],
+      [
+       107.33,
+       64.38
+      ],
+      [
+       82.1,
+       83.83
+      ]
+     ],
+     "facing": 0.679,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_240_R1": {
+   "frame": {
+    "x": 598,
+    "y": 796,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 243,
+   "heading": 240,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       88.75,
+       41.67
+      ],
+      [
+       106.4,
+       60.61
+      ],
+      [
+       80.62,
+       80.48
+      ],
+      [
+       62.98,
+       61.53
+      ]
+     ],
+     "facing": 0.727,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       79.85,
+       31.74
+      ],
+      [
+       54.62,
+       51.19
+      ],
+      [
+       60.26,
+       60.38
+      ],
+      [
+       85.49,
+       40.93
+      ]
+     ],
+     "facing": -0.679,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       76.46,
+       74.64
+      ],
+      [
+       101.69,
+       55.19
+      ],
+      [
+       107.33,
+       64.38
+      ],
+      [
+       82.1,
+       83.83
+      ]
+     ],
+     "facing": 0.679,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_240_R2": {
+   "frame": {
+    "x": 796,
+    "y": 796,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 244,
+   "heading": 240,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       88.75,
+       41.67
+      ],
+      [
+       106.4,
+       60.61
+      ],
+      [
+       80.62,
+       80.48
+      ],
+      [
+       62.98,
+       61.53
+      ]
+     ],
+     "facing": 0.727,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       79.85,
+       31.74
+      ],
+      [
+       54.62,
+       51.19
+      ],
+      [
+       60.26,
+       60.38
+      ],
+      [
+       85.49,
+       40.93
+      ]
+     ],
+     "facing": -0.679,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       76.46,
+       74.64
+      ],
+      [
+       101.69,
+       55.19
+      ],
+      [
+       107.33,
+       64.38
+      ],
+      [
+       82.1,
+       83.83
+      ]
+     ],
+     "facing": 0.679,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_245_L2": {
+   "frame": {
+    "x": 994,
+    "y": 796,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 245,
+   "heading": 245,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       90.19,
+       41.31
+      ],
+      [
+       105.1,
+       61.14
+      ],
+      [
+       78.13,
+       79.58
+      ],
+      [
+       63.22,
+       59.75
+      ]
+     ],
+     "facing": 0.702,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       81.29,
+       30.9
+      ],
+      [
+       54.89,
+       48.95
+      ],
+      [
+       60.79,
+       58.46
+      ],
+      [
+       87.2,
+       40.41
+      ]
+     ],
+     "facing": -0.711,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       73.35,
+       73.5
+      ],
+      [
+       99.75,
+       55.45
+      ],
+      [
+       105.66,
+       64.95
+      ],
+      [
+       79.25,
+       83.0
+      ]
+     ],
+     "facing": 0.711,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_245_L1": {
+   "frame": {
+    "x": 1192,
+    "y": 796,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 246,
+   "heading": 245,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       90.19,
+       41.31
+      ],
+      [
+       105.1,
+       61.14
+      ],
+      [
+       78.13,
+       79.58
+      ],
+      [
+       63.22,
+       59.75
+      ]
+     ],
+     "facing": 0.702,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       81.29,
+       30.9
+      ],
+      [
+       54.89,
+       48.95
+      ],
+      [
+       60.79,
+       58.46
+      ],
+      [
+       87.2,
+       40.41
+      ]
+     ],
+     "facing": -0.711,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       73.35,
+       73.5
+      ],
+      [
+       99.75,
+       55.45
+      ],
+      [
+       105.66,
+       64.95
+      ],
+      [
+       79.25,
+       83.0
+      ]
+     ],
+     "facing": 0.711,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_245_C": {
+   "frame": {
+    "x": 1390,
+    "y": 796,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 247,
+   "heading": 245,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       90.19,
+       41.31
+      ],
+      [
+       105.1,
+       61.14
+      ],
+      [
+       78.13,
+       79.58
+      ],
+      [
+       63.22,
+       59.75
+      ]
+     ],
+     "facing": 0.702,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       81.29,
+       30.9
+      ],
+      [
+       54.89,
+       48.95
+      ],
+      [
+       60.79,
+       58.46
+      ],
+      [
+       87.2,
+       40.41
+      ]
+     ],
+     "facing": -0.711,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       73.35,
+       73.5
+      ],
+      [
+       99.75,
+       55.45
+      ],
+      [
+       105.66,
+       64.95
+      ],
+      [
+       79.25,
+       83.0
+      ]
+     ],
+     "facing": 0.711,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_245_R1": {
+   "frame": {
+    "x": 1588,
+    "y": 796,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 248,
+   "heading": 245,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       90.19,
+       41.31
+      ],
+      [
+       105.1,
+       61.14
+      ],
+      [
+       78.13,
+       79.58
+      ],
+      [
+       63.22,
+       59.75
+      ]
+     ],
+     "facing": 0.702,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       81.29,
+       30.9
+      ],
+      [
+       54.89,
+       48.95
+      ],
+      [
+       60.79,
+       58.46
+      ],
+      [
+       87.2,
+       40.41
+      ]
+     ],
+     "facing": -0.711,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       73.35,
+       73.5
+      ],
+      [
+       99.75,
+       55.45
+      ],
+      [
+       105.66,
+       64.95
+      ],
+      [
+       79.25,
+       83.0
+      ]
+     ],
+     "facing": 0.711,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_245_R2": {
+   "frame": {
+    "x": 1786,
+    "y": 796,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 249,
+   "heading": 245,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       90.19,
+       41.31
+      ],
+      [
+       105.1,
+       61.14
+      ],
+      [
+       78.13,
+       79.58
+      ],
+      [
+       63.22,
+       59.75
+      ]
+     ],
+     "facing": 0.702,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       81.29,
+       30.9
+      ],
+      [
+       54.89,
+       48.95
+      ],
+      [
+       60.79,
+       58.46
+      ],
+      [
+       87.2,
+       40.41
+      ]
+     ],
+     "facing": -0.711,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       73.35,
+       73.5
+      ],
+      [
+       99.75,
+       55.45
+      ],
+      [
+       105.66,
+       64.95
+      ],
+      [
+       79.25,
+       83.0
+      ]
+     ],
+     "facing": 0.711,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_250_L2": {
+   "frame": {
+    "x": 4,
+    "y": 994,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 250,
+   "heading": 250,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       91.67,
+       41.04
+      ],
+      [
+       103.74,
+       61.6
+      ],
+      [
+       75.78,
+       78.55
+      ],
+      [
+       63.71,
+       57.99
+      ]
+     ],
+     "facing": 0.675,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       82.85,
+       30.15
+      ],
+      [
+       55.48,
+       46.74
+      ],
+      [
+       61.6,
+       56.57
+      ],
+      [
+       88.97,
+       39.98
+      ]
+     ],
+     "facing": -0.737,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       70.42,
+       72.19
+      ],
+      [
+       97.79,
+       55.6
+      ],
+      [
+       103.91,
+       65.43
+      ],
+      [
+       76.54,
+       82.02
+      ]
+     ],
+     "facing": 0.737,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_250_L1": {
+   "frame": {
+    "x": 202,
+    "y": 994,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 251,
+   "heading": 250,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       91.67,
+       41.04
+      ],
+      [
+       103.74,
+       61.6
+      ],
+      [
+       75.78,
+       78.55
+      ],
+      [
+       63.71,
+       57.99
+      ]
+     ],
+     "facing": 0.675,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       82.85,
+       30.15
+      ],
+      [
+       55.48,
+       46.74
+      ],
+      [
+       61.6,
+       56.57
+      ],
+      [
+       88.97,
+       39.98
+      ]
+     ],
+     "facing": -0.737,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       70.42,
+       72.19
+      ],
+      [
+       97.79,
+       55.6
+      ],
+      [
+       103.91,
+       65.43
+      ],
+      [
+       76.54,
+       82.02
+      ]
+     ],
+     "facing": 0.737,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_250_C": {
+   "frame": {
+    "x": 400,
+    "y": 994,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 252,
+   "heading": 250,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       91.67,
+       41.04
+      ],
+      [
+       103.74,
+       61.6
+      ],
+      [
+       75.78,
+       78.55
+      ],
+      [
+       63.71,
+       57.99
+      ]
+     ],
+     "facing": 0.675,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       82.85,
+       30.15
+      ],
+      [
+       55.48,
+       46.74
+      ],
+      [
+       61.6,
+       56.57
+      ],
+      [
+       88.97,
+       39.98
+      ]
+     ],
+     "facing": -0.737,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       70.42,
+       72.19
+      ],
+      [
+       97.79,
+       55.6
+      ],
+      [
+       103.91,
+       65.43
+      ],
+      [
+       76.54,
+       82.02
+      ]
+     ],
+     "facing": 0.737,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_250_R1": {
+   "frame": {
+    "x": 598,
+    "y": 994,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 253,
+   "heading": 250,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       91.67,
+       41.04
+      ],
+      [
+       103.74,
+       61.6
+      ],
+      [
+       75.78,
+       78.55
+      ],
+      [
+       63.71,
+       57.99
+      ]
+     ],
+     "facing": 0.675,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       82.85,
+       30.15
+      ],
+      [
+       55.48,
+       46.74
+      ],
+      [
+       61.6,
+       56.57
+      ],
+      [
+       88.97,
+       39.98
+      ]
+     ],
+     "facing": -0.737,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       70.42,
+       72.19
+      ],
+      [
+       97.79,
+       55.6
+      ],
+      [
+       103.91,
+       65.43
+      ],
+      [
+       76.54,
+       82.02
+      ]
+     ],
+     "facing": 0.737,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_250_R2": {
+   "frame": {
+    "x": 796,
+    "y": 994,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 254,
+   "heading": 250,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       91.67,
+       41.04
+      ],
+      [
+       103.74,
+       61.6
+      ],
+      [
+       75.78,
+       78.55
+      ],
+      [
+       63.71,
+       57.99
+      ]
+     ],
+     "facing": 0.675,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       82.85,
+       30.15
+      ],
+      [
+       55.48,
+       46.74
+      ],
+      [
+       61.6,
+       56.57
+      ],
+      [
+       88.97,
+       39.98
+      ]
+     ],
+     "facing": -0.737,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       70.42,
+       72.19
+      ],
+      [
+       97.79,
+       55.6
+      ],
+      [
+       103.91,
+       65.43
+      ],
+      [
+       76.54,
+       82.02
+      ]
+     ],
+     "facing": 0.737,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_255_L2": {
+   "frame": {
+    "x": 994,
+    "y": 994,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 255,
+   "heading": 255,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       93.19,
+       40.85
+      ],
+      [
+       102.32,
+       61.98
+      ],
+      [
+       73.58,
+       77.39
+      ],
+      [
+       64.44,
+       56.26
+      ]
+     ],
+     "facing": 0.648,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       84.51,
+       29.48
+      ],
+      [
+       56.37,
+       44.57
+      ],
+      [
+       62.66,
+       54.74
+      ],
+      [
+       90.8,
+       39.65
+      ]
+     ],
+     "facing": -0.758,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       67.68,
+       70.73
+      ],
+      [
+       95.82,
+       55.64
+      ],
+      [
+       102.11,
+       65.81
+      ],
+      [
+       73.97,
+       80.9
+      ]
+     ],
+     "facing": 0.758,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_255_L1": {
+   "frame": {
+    "x": 1192,
+    "y": 994,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 256,
+   "heading": 255,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       93.19,
+       40.85
+      ],
+      [
+       102.32,
+       61.98
+      ],
+      [
+       73.58,
+       77.39
+      ],
+      [
+       64.44,
+       56.26
+      ]
+     ],
+     "facing": 0.648,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       84.51,
+       29.48
+      ],
+      [
+       56.37,
+       44.57
+      ],
+      [
+       62.66,
+       54.74
+      ],
+      [
+       90.8,
+       39.65
+      ]
+     ],
+     "facing": -0.758,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       67.68,
+       70.73
+      ],
+      [
+       95.82,
+       55.64
+      ],
+      [
+       102.11,
+       65.81
+      ],
+      [
+       73.97,
+       80.9
+      ]
+     ],
+     "facing": 0.758,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_255_C": {
+   "frame": {
+    "x": 1390,
+    "y": 994,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 257,
+   "heading": 255,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       93.19,
+       40.85
+      ],
+      [
+       102.32,
+       61.98
+      ],
+      [
+       73.58,
+       77.39
+      ],
+      [
+       64.44,
+       56.26
+      ]
+     ],
+     "facing": 0.648,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       84.51,
+       29.48
+      ],
+      [
+       56.37,
+       44.57
+      ],
+      [
+       62.66,
+       54.74
+      ],
+      [
+       90.8,
+       39.65
+      ]
+     ],
+     "facing": -0.758,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       67.68,
+       70.73
+      ],
+      [
+       95.82,
+       55.64
+      ],
+      [
+       102.11,
+       65.81
+      ],
+      [
+       73.97,
+       80.9
+      ]
+     ],
+     "facing": 0.758,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_255_R1": {
+   "frame": {
+    "x": 1588,
+    "y": 994,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 258,
+   "heading": 255,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       93.19,
+       40.85
+      ],
+      [
+       102.32,
+       61.98
+      ],
+      [
+       73.58,
+       77.39
+      ],
+      [
+       64.44,
+       56.26
+      ]
+     ],
+     "facing": 0.648,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       84.51,
+       29.48
+      ],
+      [
+       56.37,
+       44.57
+      ],
+      [
+       62.66,
+       54.74
+      ],
+      [
+       90.8,
+       39.65
+      ]
+     ],
+     "facing": -0.758,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       67.68,
+       70.73
+      ],
+      [
+       95.82,
+       55.64
+      ],
+      [
+       102.11,
+       65.81
+      ],
+      [
+       73.97,
+       80.9
+      ]
+     ],
+     "facing": 0.758,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_255_R2": {
+   "frame": {
+    "x": 1786,
+    "y": 994,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 259,
+   "heading": 255,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       93.19,
+       40.85
+      ],
+      [
+       102.32,
+       61.98
+      ],
+      [
+       73.58,
+       77.39
+      ],
+      [
+       64.44,
+       56.26
+      ]
+     ],
+     "facing": 0.648,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       84.51,
+       29.48
+      ],
+      [
+       56.37,
+       44.57
+      ],
+      [
+       62.66,
+       54.74
+      ],
+      [
+       90.8,
+       39.65
+      ]
+     ],
+     "facing": -0.758,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       67.68,
+       70.73
+      ],
+      [
+       95.82,
+       55.64
+      ],
+      [
+       102.11,
+       65.81
+      ],
+      [
+       73.97,
+       80.9
+      ]
+     ],
+     "facing": 0.758,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_260_L2": {
+   "frame": {
+    "x": 4,
+    "y": 1192,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 260,
+   "heading": 260,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       94.73,
+       40.74
+      ],
+      [
+       100.85,
+       62.28
+      ],
+      [
+       71.55,
+       76.12
+      ],
+      [
+       65.42,
+       54.58
+      ]
+     ],
+     "facing": 0.621,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       86.26,
+       28.91
+      ],
+      [
+       57.57,
+       42.46
+      ],
+      [
+       63.98,
+       52.97
+      ],
+      [
+       92.67,
+       39.42
+      ]
+     ],
+     "facing": -0.773,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       65.15,
+       69.13
+      ],
+      [
+       93.84,
+       55.58
+      ],
+      [
+       100.25,
+       66.09
+      ],
+      [
+       71.57,
+       79.64
+      ]
+     ],
+     "facing": 0.773,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_260_L1": {
+   "frame": {
+    "x": 202,
+    "y": 1192,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 261,
+   "heading": 260,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       94.73,
+       40.74
+      ],
+      [
+       100.85,
+       62.28
+      ],
+      [
+       71.55,
+       76.12
+      ],
+      [
+       65.42,
+       54.58
+      ]
+     ],
+     "facing": 0.621,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       86.26,
+       28.91
+      ],
+      [
+       57.57,
+       42.46
+      ],
+      [
+       63.98,
+       52.97
+      ],
+      [
+       92.67,
+       39.42
+      ]
+     ],
+     "facing": -0.773,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       65.15,
+       69.13
+      ],
+      [
+       93.84,
+       55.58
+      ],
+      [
+       100.25,
+       66.09
+      ],
+      [
+       71.57,
+       79.64
+      ]
+     ],
+     "facing": 0.773,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_260_C": {
+   "frame": {
+    "x": 400,
+    "y": 1192,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 262,
+   "heading": 260,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       94.73,
+       40.74
+      ],
+      [
+       100.85,
+       62.28
+      ],
+      [
+       71.55,
+       76.12
+      ],
+      [
+       65.42,
+       54.58
+      ]
+     ],
+     "facing": 0.621,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       86.26,
+       28.91
+      ],
+      [
+       57.57,
+       42.46
+      ],
+      [
+       63.98,
+       52.97
+      ],
+      [
+       92.67,
+       39.42
+      ]
+     ],
+     "facing": -0.773,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       65.15,
+       69.13
+      ],
+      [
+       93.84,
+       55.58
+      ],
+      [
+       100.25,
+       66.09
+      ],
+      [
+       71.57,
+       79.64
+      ]
+     ],
+     "facing": 0.773,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_260_R1": {
+   "frame": {
+    "x": 598,
+    "y": 1192,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 263,
+   "heading": 260,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       94.73,
+       40.74
+      ],
+      [
+       100.85,
+       62.28
+      ],
+      [
+       71.55,
+       76.12
+      ],
+      [
+       65.42,
+       54.58
+      ]
+     ],
+     "facing": 0.621,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       86.26,
+       28.91
+      ],
+      [
+       57.57,
+       42.46
+      ],
+      [
+       63.98,
+       52.97
+      ],
+      [
+       92.67,
+       39.42
+      ]
+     ],
+     "facing": -0.773,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       65.15,
+       69.13
+      ],
+      [
+       93.84,
+       55.58
+      ],
+      [
+       100.25,
+       66.09
+      ],
+      [
+       71.57,
+       79.64
+      ]
+     ],
+     "facing": 0.773,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_260_R2": {
+   "frame": {
+    "x": 796,
+    "y": 1192,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 264,
+   "heading": 260,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       94.73,
+       40.74
+      ],
+      [
+       100.85,
+       62.28
+      ],
+      [
+       71.55,
+       76.12
+      ],
+      [
+       65.42,
+       54.58
+      ]
+     ],
+     "facing": 0.621,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       86.26,
+       28.91
+      ],
+      [
+       57.57,
+       42.46
+      ],
+      [
+       63.98,
+       52.97
+      ],
+      [
+       92.67,
+       39.42
+      ]
+     ],
+     "facing": -0.773,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       65.15,
+       69.13
+      ],
+      [
+       93.84,
+       55.58
+      ],
+      [
+       100.25,
+       66.09
+      ],
+      [
+       71.57,
+       79.64
+      ]
+     ],
+     "facing": 0.773,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_265_L2": {
+   "frame": {
+    "x": 994,
+    "y": 1192,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 265,
+   "heading": 265,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       96.27,
+       40.71
+      ],
+      [
+       99.35,
+       62.5
+      ],
+      [
+       69.7,
+       74.75
+      ],
+      [
+       66.63,
+       52.96
+      ]
+     ],
+     "facing": 0.593,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       88.08,
+       28.43
+      ],
+      [
+       59.06,
+       40.42
+      ],
+      [
+       65.54,
+       51.28
+      ],
+      [
+       94.56,
+       39.29
+      ]
+     ],
+     "facing": -0.782,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       62.86,
+       67.4
+      ],
+      [
+       91.88,
+       55.41
+      ],
+      [
+       98.37,
+       66.27
+      ],
+      [
+       69.35,
+       78.26
+      ]
+     ],
+     "facing": 0.782,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_265_L1": {
+   "frame": {
+    "x": 1192,
+    "y": 1192,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 266,
+   "heading": 265,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       96.27,
+       40.71
+      ],
+      [
+       99.35,
+       62.5
+      ],
+      [
+       69.7,
+       74.75
+      ],
+      [
+       66.63,
+       52.96
+      ]
+     ],
+     "facing": 0.593,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       88.08,
+       28.43
+      ],
+      [
+       59.06,
+       40.42
+      ],
+      [
+       65.54,
+       51.28
+      ],
+      [
+       94.56,
+       39.29
+      ]
+     ],
+     "facing": -0.782,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       62.86,
+       67.4
+      ],
+      [
+       91.88,
+       55.41
+      ],
+      [
+       98.37,
+       66.27
+      ],
+      [
+       69.35,
+       78.26
+      ]
+     ],
+     "facing": 0.782,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_265_C": {
+   "frame": {
+    "x": 1390,
+    "y": 1192,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 267,
+   "heading": 265,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       96.27,
+       40.71
+      ],
+      [
+       99.35,
+       62.5
+      ],
+      [
+       69.7,
+       74.75
+      ],
+      [
+       66.63,
+       52.96
+      ]
+     ],
+     "facing": 0.593,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       88.08,
+       28.43
+      ],
+      [
+       59.06,
+       40.42
+      ],
+      [
+       65.54,
+       51.28
+      ],
+      [
+       94.56,
+       39.29
+      ]
+     ],
+     "facing": -0.782,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       62.86,
+       67.4
+      ],
+      [
+       91.88,
+       55.41
+      ],
+      [
+       98.37,
+       66.27
+      ],
+      [
+       69.35,
+       78.26
+      ]
+     ],
+     "facing": 0.782,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_265_R1": {
+   "frame": {
+    "x": 1588,
+    "y": 1192,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 268,
+   "heading": 265,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       96.27,
+       40.71
+      ],
+      [
+       99.35,
+       62.5
+      ],
+      [
+       69.7,
+       74.75
+      ],
+      [
+       66.63,
+       52.96
+      ]
+     ],
+     "facing": 0.593,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       88.08,
+       28.43
+      ],
+      [
+       59.06,
+       40.42
+      ],
+      [
+       65.54,
+       51.28
+      ],
+      [
+       94.56,
+       39.29
+      ]
+     ],
+     "facing": -0.782,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       62.86,
+       67.4
+      ],
+      [
+       91.88,
+       55.41
+      ],
+      [
+       98.37,
+       66.27
+      ],
+      [
+       69.35,
+       78.26
+      ]
+     ],
+     "facing": 0.782,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_265_R2": {
+   "frame": {
+    "x": 1786,
+    "y": 1192,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 269,
+   "heading": 265,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       96.27,
+       40.71
+      ],
+      [
+       99.35,
+       62.5
+      ],
+      [
+       69.7,
+       74.75
+      ],
+      [
+       66.63,
+       52.96
+      ]
+     ],
+     "facing": 0.593,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       88.08,
+       28.43
+      ],
+      [
+       59.06,
+       40.42
+      ],
+      [
+       65.54,
+       51.28
+      ],
+      [
+       94.56,
+       39.29
+      ]
+     ],
+     "facing": -0.782,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       62.86,
+       67.4
+      ],
+      [
+       91.88,
+       55.41
+      ],
+      [
+       98.37,
+       66.27
+      ],
+      [
+       69.35,
+       78.26
+      ]
+     ],
+     "facing": 0.782,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_270_L2": {
+   "frame": {
+    "x": 4,
+    "y": 1390,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 270,
+   "heading": 270,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       97.82,
+       40.77
+      ],
+      [
+       97.82,
+       62.64
+      ],
+      [
+       68.06,
+       73.28
+      ],
+      [
+       68.06,
+       51.41
+      ]
+     ],
+     "facing": 0.564,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       89.96,
+       28.05
+      ],
+      [
+       60.83,
+       38.47
+      ],
+      [
+       67.34,
+       49.68
+      ],
+      [
+       96.47,
+       39.26
+      ]
+     ],
+     "facing": -0.785,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       60.83,
+       65.55
+      ],
+      [
+       89.96,
+       55.13
+      ],
+      [
+       96.47,
+       66.34
+      ],
+      [
+       67.34,
+       76.76
+      ]
+     ],
+     "facing": 0.785,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_270_L1": {
+   "frame": {
+    "x": 202,
+    "y": 1390,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 271,
+   "heading": 270,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       97.82,
+       40.77
+      ],
+      [
+       97.82,
+       62.64
+      ],
+      [
+       68.06,
+       73.28
+      ],
+      [
+       68.06,
+       51.41
+      ]
+     ],
+     "facing": 0.564,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       89.96,
+       28.05
+      ],
+      [
+       60.83,
+       38.47
+      ],
+      [
+       67.34,
+       49.68
+      ],
+      [
+       96.47,
+       39.26
+      ]
+     ],
+     "facing": -0.785,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       60.83,
+       65.55
+      ],
+      [
+       89.96,
+       55.13
+      ],
+      [
+       96.47,
+       66.34
+      ],
+      [
+       67.34,
+       76.76
+      ]
+     ],
+     "facing": 0.785,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_270_C": {
+   "frame": {
+    "x": 400,
+    "y": 1390,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 272,
+   "heading": 270,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       97.82,
+       40.77
+      ],
+      [
+       97.82,
+       62.64
+      ],
+      [
+       68.06,
+       73.28
+      ],
+      [
+       68.06,
+       51.41
+      ]
+     ],
+     "facing": 0.564,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       89.96,
+       28.05
+      ],
+      [
+       60.83,
+       38.47
+      ],
+      [
+       67.34,
+       49.68
+      ],
+      [
+       96.47,
+       39.26
+      ]
+     ],
+     "facing": -0.785,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       60.83,
+       65.55
+      ],
+      [
+       89.96,
+       55.13
+      ],
+      [
+       96.47,
+       66.34
+      ],
+      [
+       67.34,
+       76.76
+      ]
+     ],
+     "facing": 0.785,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_270_R1": {
+   "frame": {
+    "x": 598,
+    "y": 1390,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 273,
+   "heading": 270,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       97.82,
+       40.77
+      ],
+      [
+       97.82,
+       62.64
+      ],
+      [
+       68.06,
+       73.28
+      ],
+      [
+       68.06,
+       51.41
+      ]
+     ],
+     "facing": 0.564,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       89.96,
+       28.05
+      ],
+      [
+       60.83,
+       38.47
+      ],
+      [
+       67.34,
+       49.68
+      ],
+      [
+       96.47,
+       39.26
+      ]
+     ],
+     "facing": -0.785,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       60.83,
+       65.55
+      ],
+      [
+       89.96,
+       55.13
+      ],
+      [
+       96.47,
+       66.34
+      ],
+      [
+       67.34,
+       76.76
+      ]
+     ],
+     "facing": 0.785,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_270_R2": {
+   "frame": {
+    "x": 796,
+    "y": 1390,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 274,
+   "heading": 270,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       97.82,
+       40.77
+      ],
+      [
+       97.82,
+       62.64
+      ],
+      [
+       68.06,
+       73.28
+      ],
+      [
+       68.06,
+       51.41
+      ]
+     ],
+     "facing": 0.564,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       89.96,
+       28.05
+      ],
+      [
+       60.83,
+       38.47
+      ],
+      [
+       67.34,
+       49.68
+      ],
+      [
+       96.47,
+       39.26
+      ]
+     ],
+     "facing": -0.785,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       60.83,
+       65.55
+      ],
+      [
+       89.96,
+       55.13
+      ],
+      [
+       96.47,
+       66.34
+      ],
+      [
+       67.34,
+       76.76
+      ]
+     ],
+     "facing": 0.785,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_275_L2": {
+   "frame": {
+    "x": 994,
+    "y": 1390,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 275,
+   "heading": 275,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       99.35,
+       40.91
+      ],
+      [
+       96.27,
+       62.7
+      ],
+      [
+       66.63,
+       71.73
+      ],
+      [
+       69.7,
+       49.94
+      ]
+     ],
+     "facing": 0.536,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       91.88,
+       27.78
+      ],
+      [
+       62.86,
+       36.62
+      ],
+      [
+       69.35,
+       48.18
+      ],
+      [
+       98.37,
+       39.34
+      ]
+     ],
+     "facing": -0.782,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       59.06,
+       63.6
+      ],
+      [
+       88.08,
+       54.76
+      ],
+      [
+       94.56,
+       66.32
+      ],
+      [
+       65.54,
+       75.16
+      ]
+     ],
+     "facing": 0.782,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_275_L1": {
+   "frame": {
+    "x": 1192,
+    "y": 1390,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 276,
+   "heading": 275,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       99.35,
+       40.91
+      ],
+      [
+       96.27,
+       62.7
+      ],
+      [
+       66.63,
+       71.73
+      ],
+      [
+       69.7,
+       49.94
+      ]
+     ],
+     "facing": 0.536,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       91.88,
+       27.78
+      ],
+      [
+       62.86,
+       36.62
+      ],
+      [
+       69.35,
+       48.18
+      ],
+      [
+       98.37,
+       39.34
+      ]
+     ],
+     "facing": -0.782,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       59.06,
+       63.6
+      ],
+      [
+       88.08,
+       54.76
+      ],
+      [
+       94.56,
+       66.32
+      ],
+      [
+       65.54,
+       75.16
+      ]
+     ],
+     "facing": 0.782,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_275_C": {
+   "frame": {
+    "x": 1390,
+    "y": 1390,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 277,
+   "heading": 275,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       99.35,
+       40.91
+      ],
+      [
+       96.27,
+       62.7
+      ],
+      [
+       66.63,
+       71.73
+      ],
+      [
+       69.7,
+       49.94
+      ]
+     ],
+     "facing": 0.536,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       91.88,
+       27.78
+      ],
+      [
+       62.86,
+       36.62
+      ],
+      [
+       69.35,
+       48.18
+      ],
+      [
+       98.37,
+       39.34
+      ]
+     ],
+     "facing": -0.782,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       59.06,
+       63.6
+      ],
+      [
+       88.08,
+       54.76
+      ],
+      [
+       94.56,
+       66.32
+      ],
+      [
+       65.54,
+       75.16
+      ]
+     ],
+     "facing": 0.782,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_275_R1": {
+   "frame": {
+    "x": 1588,
+    "y": 1390,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 278,
+   "heading": 275,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       99.35,
+       40.91
+      ],
+      [
+       96.27,
+       62.7
+      ],
+      [
+       66.63,
+       71.73
+      ],
+      [
+       69.7,
+       49.94
+      ]
+     ],
+     "facing": 0.536,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       91.88,
+       27.78
+      ],
+      [
+       62.86,
+       36.62
+      ],
+      [
+       69.35,
+       48.18
+      ],
+      [
+       98.37,
+       39.34
+      ]
+     ],
+     "facing": -0.782,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       59.06,
+       63.6
+      ],
+      [
+       88.08,
+       54.76
+      ],
+      [
+       94.56,
+       66.32
+      ],
+      [
+       65.54,
+       75.16
+      ]
+     ],
+     "facing": 0.782,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_275_R2": {
+   "frame": {
+    "x": 1786,
+    "y": 1390,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 279,
+   "heading": 275,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       99.35,
+       40.91
+      ],
+      [
+       96.27,
+       62.7
+      ],
+      [
+       66.63,
+       71.73
+      ],
+      [
+       69.7,
+       49.94
+      ]
+     ],
+     "facing": 0.536,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       91.88,
+       27.78
+      ],
+      [
+       62.86,
+       36.62
+      ],
+      [
+       69.35,
+       48.18
+      ],
+      [
+       98.37,
+       39.34
+      ]
+     ],
+     "facing": -0.782,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       59.06,
+       63.6
+      ],
+      [
+       88.08,
+       54.76
+      ],
+      [
+       94.56,
+       66.32
+      ],
+      [
+       65.54,
+       75.16
+      ]
+     ],
+     "facing": 0.782,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_280_L2": {
+   "frame": {
+    "x": 4,
+    "y": 1588,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 280,
+   "heading": 280,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       100.85,
+       41.13
+      ],
+      [
+       94.73,
+       62.67
+      ],
+      [
+       65.42,
+       70.11
+      ],
+      [
+       71.55,
+       48.56
+      ]
+     ],
+     "facing": 0.508,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       93.84,
+       27.61
+      ],
+      [
+       65.15,
+       34.89
+      ],
+      [
+       71.57,
+       46.8
+      ],
+      [
+       100.25,
+       39.52
+      ]
+     ],
+     "facing": -0.773,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       57.57,
+       61.56
+      ],
+      [
+       86.26,
+       54.28
+      ],
+      [
+       92.67,
+       66.19
+      ],
+      [
+       63.98,
+       73.47
+      ]
+     ],
+     "facing": 0.773,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_280_L1": {
+   "frame": {
+    "x": 202,
+    "y": 1588,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 281,
+   "heading": 280,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       100.85,
+       41.13
+      ],
+      [
+       94.73,
+       62.67
+      ],
+      [
+       65.42,
+       70.11
+      ],
+      [
+       71.55,
+       48.56
+      ]
+     ],
+     "facing": 0.508,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       93.84,
+       27.61
+      ],
+      [
+       65.15,
+       34.89
+      ],
+      [
+       71.57,
+       46.8
+      ],
+      [
+       100.25,
+       39.52
+      ]
+     ],
+     "facing": -0.773,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       57.57,
+       61.56
+      ],
+      [
+       86.26,
+       54.28
+      ],
+      [
+       92.67,
+       66.19
+      ],
+      [
+       63.98,
+       73.47
+      ]
+     ],
+     "facing": 0.773,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_280_C": {
+   "frame": {
+    "x": 400,
+    "y": 1588,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 282,
+   "heading": 280,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       100.85,
+       41.13
+      ],
+      [
+       94.73,
+       62.67
+      ],
+      [
+       65.42,
+       70.11
+      ],
+      [
+       71.55,
+       48.56
+      ]
+     ],
+     "facing": 0.508,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       93.84,
+       27.61
+      ],
+      [
+       65.15,
+       34.89
+      ],
+      [
+       71.57,
+       46.8
+      ],
+      [
+       100.25,
+       39.52
+      ]
+     ],
+     "facing": -0.773,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       57.57,
+       61.56
+      ],
+      [
+       86.26,
+       54.28
+      ],
+      [
+       92.67,
+       66.19
+      ],
+      [
+       63.98,
+       73.47
+      ]
+     ],
+     "facing": 0.773,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_280_R1": {
+   "frame": {
+    "x": 598,
+    "y": 1588,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 283,
+   "heading": 280,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       100.85,
+       41.13
+      ],
+      [
+       94.73,
+       62.67
+      ],
+      [
+       65.42,
+       70.11
+      ],
+      [
+       71.55,
+       48.56
+      ]
+     ],
+     "facing": 0.508,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       93.84,
+       27.61
+      ],
+      [
+       65.15,
+       34.89
+      ],
+      [
+       71.57,
+       46.8
+      ],
+      [
+       100.25,
+       39.52
+      ]
+     ],
+     "facing": -0.773,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       57.57,
+       61.56
+      ],
+      [
+       86.26,
+       54.28
+      ],
+      [
+       92.67,
+       66.19
+      ],
+      [
+       63.98,
+       73.47
+      ]
+     ],
+     "facing": 0.773,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_280_R2": {
+   "frame": {
+    "x": 796,
+    "y": 1588,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 284,
+   "heading": 280,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       100.85,
+       41.13
+      ],
+      [
+       94.73,
+       62.67
+      ],
+      [
+       65.42,
+       70.11
+      ],
+      [
+       71.55,
+       48.56
+      ]
+     ],
+     "facing": 0.508,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       93.84,
+       27.61
+      ],
+      [
+       65.15,
+       34.89
+      ],
+      [
+       71.57,
+       46.8
+      ],
+      [
+       100.25,
+       39.52
+      ]
+     ],
+     "facing": -0.773,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       57.57,
+       61.56
+      ],
+      [
+       86.26,
+       54.28
+      ],
+      [
+       92.67,
+       66.19
+      ],
+      [
+       63.98,
+       73.47
+      ]
+     ],
+     "facing": 0.773,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_285_L2": {
+   "frame": {
+    "x": 994,
+    "y": 1588,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 285,
+   "heading": 285,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       102.32,
+       41.43
+      ],
+      [
+       93.19,
+       62.56
+      ],
+      [
+       64.44,
+       68.43
+      ],
+      [
+       73.58,
+       47.29
+      ]
+     ],
+     "facing": 0.48,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       95.82,
+       27.54
+      ],
+      [
+       67.68,
+       33.29
+      ],
+      [
+       73.97,
+       45.54
+      ],
+      [
+       102.11,
+       39.8
+      ]
+     ],
+     "facing": -0.758,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       56.37,
+       59.44
+      ],
+      [
+       84.51,
+       53.7
+      ],
+      [
+       90.8,
+       65.96
+      ],
+      [
+       62.66,
+       71.7
+      ]
+     ],
+     "facing": 0.758,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_285_L1": {
+   "frame": {
+    "x": 1192,
+    "y": 1588,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 286,
+   "heading": 285,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       102.32,
+       41.43
+      ],
+      [
+       93.19,
+       62.56
+      ],
+      [
+       64.44,
+       68.43
+      ],
+      [
+       73.58,
+       47.29
+      ]
+     ],
+     "facing": 0.48,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       95.82,
+       27.54
+      ],
+      [
+       67.68,
+       33.29
+      ],
+      [
+       73.97,
+       45.54
+      ],
+      [
+       102.11,
+       39.8
+      ]
+     ],
+     "facing": -0.758,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       56.37,
+       59.44
+      ],
+      [
+       84.51,
+       53.7
+      ],
+      [
+       90.8,
+       65.96
+      ],
+      [
+       62.66,
+       71.7
+      ]
+     ],
+     "facing": 0.758,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_285_C": {
+   "frame": {
+    "x": 1390,
+    "y": 1588,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 287,
+   "heading": 285,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       102.32,
+       41.43
+      ],
+      [
+       93.19,
+       62.56
+      ],
+      [
+       64.44,
+       68.43
+      ],
+      [
+       73.58,
+       47.29
+      ]
+     ],
+     "facing": 0.48,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       95.82,
+       27.54
+      ],
+      [
+       67.68,
+       33.29
+      ],
+      [
+       73.97,
+       45.54
+      ],
+      [
+       102.11,
+       39.8
+      ]
+     ],
+     "facing": -0.758,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       56.37,
+       59.44
+      ],
+      [
+       84.51,
+       53.7
+      ],
+      [
+       90.8,
+       65.96
+      ],
+      [
+       62.66,
+       71.7
+      ]
+     ],
+     "facing": 0.758,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_285_R1": {
+   "frame": {
+    "x": 1588,
+    "y": 1588,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 288,
+   "heading": 285,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       102.32,
+       41.43
+      ],
+      [
+       93.19,
+       62.56
+      ],
+      [
+       64.44,
+       68.43
+      ],
+      [
+       73.58,
+       47.29
+      ]
+     ],
+     "facing": 0.48,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       95.82,
+       27.54
+      ],
+      [
+       67.68,
+       33.29
+      ],
+      [
+       73.97,
+       45.54
+      ],
+      [
+       102.11,
+       39.8
+      ]
+     ],
+     "facing": -0.758,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       56.37,
+       59.44
+      ],
+      [
+       84.51,
+       53.7
+      ],
+      [
+       90.8,
+       65.96
+      ],
+      [
+       62.66,
+       71.7
+      ]
+     ],
+     "facing": 0.758,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_285_R2": {
+   "frame": {
+    "x": 1786,
+    "y": 1588,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 289,
+   "heading": 285,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       102.32,
+       41.43
+      ],
+      [
+       93.19,
+       62.56
+      ],
+      [
+       64.44,
+       68.43
+      ],
+      [
+       73.58,
+       47.29
+      ]
+     ],
+     "facing": 0.48,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       95.82,
+       27.54
+      ],
+      [
+       67.68,
+       33.29
+      ],
+      [
+       73.97,
+       45.54
+      ],
+      [
+       102.11,
+       39.8
+      ]
+     ],
+     "facing": -0.758,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       56.37,
+       59.44
+      ],
+      [
+       84.51,
+       53.7
+      ],
+      [
+       90.8,
+       65.96
+      ],
+      [
+       62.66,
+       71.7
+      ]
+     ],
+     "facing": 0.758,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_290_L2": {
+   "frame": {
+    "x": 4,
+    "y": 1786,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 290,
+   "heading": 290,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       103.74,
+       41.81
+      ],
+      [
+       91.67,
+       62.37
+      ],
+      [
+       63.71,
+       66.7
+      ],
+      [
+       75.78,
+       46.14
+      ]
+     ],
+     "facing": 0.453,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       97.79,
+       27.59
+      ],
+      [
+       70.42,
+       31.83
+      ],
+      [
+       76.54,
+       44.42
+      ],
+      [
+       103.91,
+       40.18
+      ]
+     ],
+     "facing": -0.737,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       55.48,
+       57.27
+      ],
+      [
+       82.85,
+       53.04
+      ],
+      [
+       88.97,
+       65.63
+      ],
+      [
+       61.6,
+       69.87
+      ]
+     ],
+     "facing": 0.737,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_290_L1": {
+   "frame": {
+    "x": 202,
+    "y": 1786,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 291,
+   "heading": 290,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       103.74,
+       41.81
+      ],
+      [
+       91.67,
+       62.37
+      ],
+      [
+       63.71,
+       66.7
+      ],
+      [
+       75.78,
+       46.14
+      ]
+     ],
+     "facing": 0.453,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       97.79,
+       27.59
+      ],
+      [
+       70.42,
+       31.83
+      ],
+      [
+       76.54,
+       44.42
+      ],
+      [
+       103.91,
+       40.18
+      ]
+     ],
+     "facing": -0.737,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       55.48,
+       57.27
+      ],
+      [
+       82.85,
+       53.04
+      ],
+      [
+       88.97,
+       65.63
+      ],
+      [
+       61.6,
+       69.87
+      ]
+     ],
+     "facing": 0.737,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_290_C": {
+   "frame": {
+    "x": 400,
+    "y": 1786,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 292,
+   "heading": 290,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       103.74,
+       41.81
+      ],
+      [
+       91.67,
+       62.37
+      ],
+      [
+       63.71,
+       66.7
+      ],
+      [
+       75.78,
+       46.14
+      ]
+     ],
+     "facing": 0.453,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       97.79,
+       27.59
+      ],
+      [
+       70.42,
+       31.83
+      ],
+      [
+       76.54,
+       44.42
+      ],
+      [
+       103.91,
+       40.18
+      ]
+     ],
+     "facing": -0.737,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       55.48,
+       57.27
+      ],
+      [
+       82.85,
+       53.04
+      ],
+      [
+       88.97,
+       65.63
+      ],
+      [
+       61.6,
+       69.87
+      ]
+     ],
+     "facing": 0.737,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_290_R1": {
+   "frame": {
+    "x": 598,
+    "y": 1786,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 293,
+   "heading": 290,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       103.74,
+       41.81
+      ],
+      [
+       91.67,
+       62.37
+      ],
+      [
+       63.71,
+       66.7
+      ],
+      [
+       75.78,
+       46.14
+      ]
+     ],
+     "facing": 0.453,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       97.79,
+       27.59
+      ],
+      [
+       70.42,
+       31.83
+      ],
+      [
+       76.54,
+       44.42
+      ],
+      [
+       103.91,
+       40.18
+      ]
+     ],
+     "facing": -0.737,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       55.48,
+       57.27
+      ],
+      [
+       82.85,
+       53.04
+      ],
+      [
+       88.97,
+       65.63
+      ],
+      [
+       61.6,
+       69.87
+      ]
+     ],
+     "facing": 0.737,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_290_R2": {
+   "frame": {
+    "x": 796,
+    "y": 1786,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 294,
+   "heading": 290,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       103.74,
+       41.81
+      ],
+      [
+       91.67,
+       62.37
+      ],
+      [
+       63.71,
+       66.7
+      ],
+      [
+       75.78,
+       46.14
+      ]
+     ],
+     "facing": 0.453,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       97.79,
+       27.59
+      ],
+      [
+       70.42,
+       31.83
+      ],
+      [
+       76.54,
+       44.42
+      ],
+      [
+       103.91,
+       40.18
+      ]
+     ],
+     "facing": -0.737,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       55.48,
+       57.27
+      ],
+      [
+       82.85,
+       53.04
+      ],
+      [
+       88.97,
+       65.63
+      ],
+      [
+       61.6,
+       69.87
+      ]
+     ],
+     "facing": 0.737,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_295_L2": {
+   "frame": {
+    "x": 994,
+    "y": 1786,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 295,
+   "heading": 295,
+   "steer": "L2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       105.1,
+       42.27
+      ],
+      [
+       90.19,
+       62.09
+      ],
+      [
+       63.22,
+       64.94
+      ],
+      [
+       78.13,
+       45.11
+      ]
+     ],
+     "facing": 0.427,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       99.75,
+       27.74
+      ],
+      [
+       73.35,
+       30.52
+      ],
+      [
+       79.25,
+       43.44
+      ],
+      [
+       105.66,
+       40.65
+      ]
+     ],
+     "facing": -0.711,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       54.89,
+       55.06
+      ],
+      [
+       81.29,
+       52.28
+      ],
+      [
+       87.2,
+       65.2
+      ],
+      [
+       60.79,
+       67.98
+      ]
+     ],
+     "facing": 0.711,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_295_L1": {
+   "frame": {
+    "x": 1192,
+    "y": 1786,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 296,
+   "heading": 295,
+   "steer": "L1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       105.1,
+       42.27
+      ],
+      [
+       90.19,
+       62.09
+      ],
+      [
+       63.22,
+       64.94
+      ],
+      [
+       78.13,
+       45.11
+      ]
+     ],
+     "facing": 0.427,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       99.75,
+       27.74
+      ],
+      [
+       73.35,
+       30.52
+      ],
+      [
+       79.25,
+       43.44
+      ],
+      [
+       105.66,
+       40.65
+      ]
+     ],
+     "facing": -0.711,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       54.89,
+       55.06
+      ],
+      [
+       81.29,
+       52.28
+      ],
+      [
+       87.2,
+       65.2
+      ],
+      [
+       60.79,
+       67.98
+      ]
+     ],
+     "facing": 0.711,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_295_C": {
+   "frame": {
+    "x": 1390,
+    "y": 1786,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 297,
+   "heading": 295,
+   "steer": "C",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       105.1,
+       42.27
+      ],
+      [
+       90.19,
+       62.09
+      ],
+      [
+       63.22,
+       64.94
+      ],
+      [
+       78.13,
+       45.11
+      ]
+     ],
+     "facing": 0.427,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       99.75,
+       27.74
+      ],
+      [
+       73.35,
+       30.52
+      ],
+      [
+       79.25,
+       43.44
+      ],
+      [
+       105.66,
+       40.65
+      ]
+     ],
+     "facing": -0.711,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       54.89,
+       55.06
+      ],
+      [
+       81.29,
+       52.28
+      ],
+      [
+       87.2,
+       65.2
+      ],
+      [
+       60.79,
+       67.98
+      ]
+     ],
+     "facing": 0.711,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_295_R1": {
+   "frame": {
+    "x": 1588,
+    "y": 1786,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 298,
+   "heading": 295,
+   "steer": "R1",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       105.1,
+       42.27
+      ],
+      [
+       90.19,
+       62.09
+      ],
+      [
+       63.22,
+       64.94
+      ],
+      [
+       78.13,
+       45.11
+      ]
+     ],
+     "facing": 0.427,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       99.75,
+       27.74
+      ],
+      [
+       73.35,
+       30.52
+      ],
+      [
+       79.25,
+       43.44
+      ],
+      [
+       105.66,
+       40.65
+      ]
+     ],
+     "facing": -0.711,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       54.89,
+       55.06
+      ],
+      [
+       81.29,
+       52.28
+      ],
+      [
+       87.2,
+       65.2
+      ],
+      [
+       60.79,
+       67.98
+      ]
+     ],
+     "facing": 0.711,
+     "visible": true
+    }
+   }
+  },
+  "car_mask_295_R2": {
+   "frame": {
+    "x": 1786,
+    "y": 1786,
+    "w": 192,
+    "h": 192
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 192,
+    "h": 192
+   },
+   "sourceSize": {
+    "w": 192,
+    "h": 192
+   },
+   "pivot": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "anchor": {
+    "x": 0.5,
+    "y": 0.5
+   },
+   "index": 299,
+   "heading": 295,
+   "steer": "R2",
+   "numberPanels": {
+    "wing_top": {
+     "corners": [
+      [
+       105.1,
+       42.27
+      ],
+      [
+       90.19,
+       62.09
+      ],
+      [
+       63.22,
+       64.94
+      ],
+      [
+       78.13,
+       45.11
+      ]
+     ],
+     "facing": 0.427,
+     "visible": true
+    },
+    "board_right": {
+     "corners": [
+      [
+       99.75,
+       27.74
+      ],
+      [
+       73.35,
+       30.52
+      ],
+      [
+       79.25,
+       43.44
+      ],
+      [
+       105.66,
+       40.65
+      ]
+     ],
+     "facing": -0.711,
+     "visible": false
+    },
+    "board_left": {
+     "corners": [
+      [
+       54.89,
+       55.06
+      ],
+      [
+       81.29,
+       52.28
+      ],
+      [
+       87.2,
+       65.2
+      ],
+      [
+       60.79,
+       67.98
+      ]
+     ],
+     "facing": 0.711,
+     "visible": true
+    }
+   }
+  }
+ },
+ "meta": {
+  "app": "CK2 Art Bot pack_atlas_r5.py (TexturePacker JSON Hash compatible)",
+  "version": "5.0",
+  "model": "R4f (round4/src/ck2car_r4.py + spec410.py, Matthew-approved 2026-11-21 11:25 PM, locked)",
+  "image": "car_mask_2.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 2048,
+   "h": 2048
+  },
+  "scale": "1",
+  "related_multi_packs": [
+   "car_mask_0.json",
+   "car_mask_1.json",
+   "car_mask_3.json"
+  ],
+  "layer": "mask",
+  "layerSpec": "8-bit RGBA, unlit, LINEAR, NOT premultiplied. Four mutually exclusive paint regions (dominant region wins the whole pixel; value = paint fraction, so AA only against non-paint): R = primary (+deck, +helmet shell), G = secondary (nose, wing belly/trailing edge/caps, sideboard bands, front-wing boards, belly pan, wheel mud covers = the \"rims\"), B = number panel (wing top + both sideboards), STRIPE = 1 - A (hood stripe, side bands, arm-guard bands, wicker bill, helmet stripe). A = 255 everywhere that is not stripe (incl. empty space). Coverage is NOT in the mask any more: use the albedo alpha (identical frame rects).",
+  "frameSize": {
+   "w": 192,
+   "h": 192
+  },
+  "pivot": {
+   "x": 0.5,
+   "y": 0.5
+  },
+  "pivotMeaning": "ground point directly under the rear-axle centre; same pixel in every frame of every layer",
+  "axleCentrePx192": [
+   96.0,
+   87.11
+  ],
+  "orthoScaleM": 6.8,
+  "pxPerMeter": 28.23529,
+  "metersPerPx": 0.035417,
+  "headings": 72,
+  "headingStepDeg": 5,
+  "heading0": "nose pointing up the screen, away from the grandstand, increasing clockwise",
+  "headingDirection": "clockwise",
+  "headingSpace": "ground-plane (world) angle",
+  "steerPoses": [
+   "L2",
+   "L1",
+   "C",
+   "R1",
+   "R2"
+  ],
+  "steerDeg": {
+   "L2": 30.0,
+   "L1": 15.0,
+   "C": 0.0,
+   "R1": -15.0,
+   "R2": -30.0
+  },
+  "steerNote": "front-wheel yaw; + = wheels turned to the car's left (CCW from above)",
+  "frameOrder": "index = headingIndex*5 + steerIndex (steer order L2,L1,C,R1,R2); page = index // framesPerPage; same order in every layer",
+  "framesPerPage": 100,
+  "gridCols": 10,
+  "cellPitch": 198,
+  "extrude": 2,
+  "padding": 2,
+  "border": 2,
+  "trim": false,
+  "rotation": false,
+  "camTiltDeg": 51.7,
+  "camElevDeg": 38.3,
+  "projection": "orthographic",
+  "squash": 0.62,
+  "heightScale": 0.785,
+  "paintGreyLinear": 0.8,
+  "keyLight": "R4 scene, fixed for all frames: key sun 3.8 (12 deg disc) from screen upper-left ~62 deg high, two large area fill banks, sky 0.6; shadow layer = key sun only",
+  "tint": "linear: m = mask; stripe = 1 - m.a; rgb = albedo.rgb * mix(1, primary/0.8, m.r) * mix(1, secondary/0.8, m.g) * mix(1, panel/0.8, m.b) * mix(1, stripe/0.8, stripe); alpha = albedo.a; then rgb += specGlint (from the spec layer, added AFTER the tint and NOT tinted)",
+  "runtimeOnly": [
+   "mud",
+   "depth scaling",
+   "time-of-day grade",
+   "pole lights",
+   "SDF numbers",
+   "sponsor / tank text decals"
+  ],
+  "maskCategories": {
+   "primary": "R",
+   "deck": "R",
+   "helmet": "R",
+   "secondary": "G",
+   "panel": "B",
+   "stripe": "1-A"
+  },
+  "numberPanelsNote": "albedo + mask frames: numberPanels.{wing_top, board_right, board_left}.corners = 4 points in 192 px frame px (origin top-left), order TL,TR,BR,BL in the number reading frame; wing_top reads upright to someone in FRONT of the car (rule-book convention, top of the digits toward the trailing edge); each sideboard number reads front-to-back from its own outside; facing = cos(angle to camera), visible = facing > 0.05. Panel colour = the B tint (all R4 liveries: the primary colour).",
+  "gpuFormat": "KTX2 UASTC (linear), see ktx2Image; ETC1S/BasisLZ kept as ktx2ImageETC1S",
+  "ktx2Image": "car_mask_2_uastc.ktx2",
+  "ktx2ImageETC1S": "car_mask_2.ktx2",
+  "ktx2Note": "Ship ktx2Image (UASTC, linear): ETC1S breaks the mutually exclusive regions (see verify_report ktx2.mask). The ETC1S file is kept for comparison only."
+ }
+}

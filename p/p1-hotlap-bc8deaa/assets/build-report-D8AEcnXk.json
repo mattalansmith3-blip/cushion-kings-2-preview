@@ -1,0 +1,13 @@
+{
+  "albedo96": "2048x2048 box-filter",
+  "mask96": "2048x2048 dominant-region (R/G/B/stripe, coverage from albedo.a)",
+  "metersPerPx": 0.070834,
+  "frames": 360,
+  "ktx2": {
+    "car_albedo_96.ktx2": "uastc 0.55 MB",
+    "car_mask_96.ktx2": "uastc 0.35 MB",
+    "car_shadow.ktx2": "etc1s 0.11 MB",
+    "car_spec.ktx2": "etc1s 0.13 MB"
+  },
+  "plan": "albedo and mask UASTC; shadow and spec ETC1S"
+}

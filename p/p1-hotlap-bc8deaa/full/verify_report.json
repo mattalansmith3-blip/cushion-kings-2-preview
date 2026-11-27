@@ -1,0 +1,183 @@
+{
+ "frames_per_layer": {
+  "albedo": 360,
+  "mask": 360,
+  "shadow": 360,
+  "spec": 360
+ },
+ "clip": {
+  "albedo": {
+   "min_margin_px": 16,
+   "at": "075_L2",
+   "frame": 192
+  },
+  "mask": {
+   "min_margin_px": 16,
+   "at": "075_L2",
+   "frame": 192
+  },
+  "shadow": {
+   "min_margin_px": 4,
+   "at": "070_L2",
+   "frame": 96
+  },
+  "spec": {
+   "min_margin_px": 8,
+   "at": "075_L2",
+   "frame": 96
+  }
+ },
+ "issues": [],
+ "mask_paint_outside_albedo_coverage_px": 0,
+ "mask_A_below_255_outside_coverage_px": 0,
+ "mask_stripe_pixels": 25093,
+ "coverage_check_fails": 0,
+ "mask_pixels_with_more_than_one_region_on": 0,
+ "mask_regions": "R,G,B,stripe(1-A)",
+ "mask_pixels_RGB_sum_over_255": 0,
+ "mask_paint_pixels": 1518065,
+ "mask_soft_paint_pixels_vs_nonpaint": 462007,
+ "anchor_on_every_frame": true,
+ "related_multi_packs_own_layer_only": true,
+ "frame_names_match_car_layer_heading3_steer": true,
+ "heading3_is_degrees_000_355": true,
+ "json_hash_keys_on_every_frame": true,
+ "no_trim_no_rotate": true,
+ "pivot_0.5_0.5_every_frame": true,
+ "pages": {
+  "albedo": 4,
+  "mask": 4,
+  "shadow": 1,
+  "spec": 1
+ },
+ "page_size": {
+  "albedo": {
+   "w": 2048,
+   "h": 2048
+  },
+  "mask": {
+   "w": 2048,
+   "h": 2048
+  },
+  "shadow": {
+   "w": 2048,
+   "h": 2048
+  },
+  "spec": {
+   "w": 2048,
+   "h": 2048
+  }
+ },
+ "extrude_pad": {
+  "albedo": [
+   2,
+   2
+  ],
+  "mask": [
+   2,
+   2
+  ],
+  "shadow": [
+   2,
+   2
+  ],
+  "spec": [
+   2,
+   2
+  ]
+ },
+ "heading0": "nose pointing up the screen, away from the grandstand, increasing clockwise",
+ "frames_with_bad_2px_extrude": 0,
+ "min_gap_between_frames_px": 6,
+ "number_panels_on_every_albedo_mask_frame": true,
+ "number_panels_identical_albedo_vs_mask": true,
+ "mask_B_pixels_inside_visible_panel_quads": 1.0,
+ "visible_panel_quad_B_coverage_median": 0.905,
+ "ktx2": {
+  "albedo": {
+   "spec": {
+    "pages": 4,
+    "all_valid": true,
+    "bytes": 963318,
+    "min_psnr_db": 41.91
+   }
+  },
+  "mask": {
+   "spec": {
+    "pages": 4,
+    "all_valid": true,
+    "bytes": 356739,
+    "min_psnr_db": 48.31,
+    "dominant_region_changed_px": 121,
+    "px_with_2plus_channels_over_32": 1452,
+    "solid_paint_px": 1257530,
+    "stripe_px_lost": 153,
+    "stripe_px_false": 714,
+    "alpha_maxdiff": 228
+   },
+   "etc1s_alt": {
+    "pages": 4,
+    "all_valid": true,
+    "bytes": 221253,
+    "min_psnr_db": 26.39,
+    "dominant_region_changed_px": 90435,
+    "px_with_2plus_channels_over_32": 271648,
+    "solid_paint_px": 1257530,
+    "stripe_px_lost": 38,
+    "stripe_px_false": 0,
+    "alpha_maxdiff": 53
+   }
+  },
+  "shadow": {
+   "spec": {
+    "pages": 1,
+    "all_valid": true,
+    "bytes": 85302,
+    "min_psnr_db": 38.77
+   }
+  },
+  "spec": {
+   "spec": {
+    "pages": 1,
+    "all_valid": true,
+    "bytes": 100546,
+    "min_psnr_db": 40.02
+   }
+  }
+ },
+ "rival_validation": {
+  "hayes": {
+   "frames": 25,
+   "car_px": 95523,
+   "mean_dE2000": 6.09,
+   "median": 4.48,
+   "p95": 14.83,
+   "share_px_dE_under_5": 0.545
+  },
+  "junior": {
+   "frames": 25,
+   "car_px": 95523,
+   "mean_dE2000": 7.66,
+   "median": 5.56,
+   "p95": 22.03,
+   "share_px_dE_under_5": 0.459
+  },
+  "doc": {
+   "frames": 25,
+   "car_px": 95523,
+   "mean_dE2000": 9.68,
+   "median": 7.93,
+   "p95": 26.76,
+   "share_px_dE_under_5": 0.33
+  },
+  "hollywood": {
+   "frames": 25,
+   "car_px": 95523,
+   "mean_dE2000": 2.24,
+   "median": 1.2,
+   "p95": 8.84,
+   "share_px_dE_under_5": 0.898
+  }
+ },
+ "verdict_png_source": "PASS"
+}
