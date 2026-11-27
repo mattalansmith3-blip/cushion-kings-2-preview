@@ -1,0 +1,47 @@
+{
+  "px_per_m": 64,
+  "wall": {
+    "height_m": 2.0,
+    "height_source": "hometown_track_ref.json wallHeightM (not a placeholder)",
+    "tile_width_m": 16.0,
+    "panel_width_m": 4.0,
+    "size_px": [
+      1024,
+      128
+    ],
+    "files": {
+      "albedo": "walls/wall_albedo.png",
+      "normal": "walls/wall_normal.png",
+      "roughness": "walls/wall_roughness.png"
+    }
+  },
+  "catch_fence": {
+    "height_m": 2.5,
+    "height_source": "hometown_track_ref.json fenceHeightAboveWallM (not a placeholder)",
+    "tile_width_m": 16.0,
+    "post_spacing_m": 4.0,
+    "size_px": [
+      1024,
+      256
+    ],
+    "content_px": [
+      1024,
+      160
+    ],
+    "content_rect": [
+      0,
+      96,
+      1024,
+      160
+    ],
+    "pad_top_px": 96,
+    "files": {
+      "albedo": "walls/fence_albedo.png"
+    },
+    "note": "1024x256 POT. Bottom 160 px are 2.5 m of fence at 64 px/m; top 96 px transparent."
+  },
+  "wall_height_m": 2.0,
+  "fence_height_above_wall_m": 2.5,
+  "height_source": "hometown_track_ref.json wallHeightM=2.0, fenceHeightAboveWallM=2.5 (not in placeholders)",
+  "note": "Strips are face-on, tiled along track length (U). V is up the wall/fence. Wall is 1024x128 (2.0 m at 64 px/m, already POT). Fence is 1024x256 POT with 2.5 m (160 px) of content in the bottom rows. Post spacing is 4.0 m."
+}
