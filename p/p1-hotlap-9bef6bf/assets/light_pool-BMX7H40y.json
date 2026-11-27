@@ -1,0 +1,279 @@
+{
+  "file": "lights/light_pool.png",
+  "ktx2": "lights/light_pool.ktx2",
+  "encode": "uastc",
+  "kind": "additive_sprite",
+  "blend": "additive",
+  "premultiplied": true,
+  "color": "#FFD6A8",
+  "size_px": [
+    512,
+    512
+  ],
+  "px_per_m": 32.0,
+  "pool_radius_m": 6.5,
+  "pivot": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "pivotMeaning": "pool centre (aim point) in the sprite; TexturePacker (0,0)=bottom-left",
+  "camera": "orthographic, elevation asin(0.62)=38.316 deg, look -Y. Ellipse is a ground circle foreshortened by sin(e)=0.62.",
+  "falloff": "exp(-(r/radius_m)^2), matching r5 hero add_soft_glow",
+  "grade_applied": false,
+  "note": "Ungraded additive pool. Runtime: blit at aim_m, scale by camera_ppm/32, add rgb*intensity. Matches r5 hero poles (track_ref + 2.4 m outward, aim 12 m inward).",
+  "poles": [
+    {
+      "id": "light_0",
+      "position_m": [
+        -42.4245,
+        51.129,
+        22.15
+      ],
+      "aim_m": [
+        -42.422,
+        39.129,
+        0.0
+      ],
+      "pool_radius_m": 6.5,
+      "color": "#FFD6A8",
+      "intensity": 0.22,
+      "heading_rad": 1.571,
+      "track_ref_m": [
+        -42.424,
+        48.729
+      ]
+    },
+    {
+      "id": "light_1",
+      "position_m": [
+        -8.5785,
+        51.129,
+        22.15
+      ],
+      "aim_m": [
+        -8.576,
+        39.129,
+        0.0
+      ],
+      "pool_radius_m": 6.5,
+      "color": "#FFD6A8",
+      "intensity": 0.22,
+      "heading_rad": 1.571,
+      "track_ref_m": [
+        -8.578,
+        48.729
+      ]
+    },
+    {
+      "id": "light_2",
+      "position_m": [
+        25.2685,
+        51.129,
+        22.15
+      ],
+      "aim_m": [
+        25.271,
+        39.129,
+        0.0
+      ],
+      "pool_radius_m": 6.5,
+      "color": "#FFD6A8",
+      "intensity": 0.22,
+      "heading_rad": 1.571,
+      "track_ref_m": [
+        25.269,
+        48.729
+      ]
+    },
+    {
+      "id": "light_3",
+      "position_m": [
+        64.3655,
+        46.1815,
+        22.15
+      ],
+      "aim_m": [
+        59.213,
+        35.344,
+        0.0
+      ],
+      "pool_radius_m": 6.5,
+      "color": "#FFD6A8",
+      "intensity": 0.22,
+      "heading_rad": 1.127,
+      "track_ref_m": [
+        63.335,
+        44.014
+      ]
+    },
+    {
+      "id": "light_4",
+      "position_m": [
+        92.2309,
+        11.5525,
+        22.15
+      ],
+      "aim_m": [
+        80.5414,
+        8.8401,
+        0.0
+      ],
+      "pool_radius_m": 6.5,
+      "color": "#FFD6A8",
+      "intensity": 0.22,
+      "heading_rad": 0.228,
+      "track_ref_m": [
+        89.893,
+        11.01
+      ]
+    },
+    {
+      "id": "light_5",
+      "position_m": [
+        82.4547,
+        -31.8072,
+        22.15
+      ],
+      "aim_m": [
+        73.0563,
+        -24.346,
+        0.0
+      ],
+      "pool_radius_m": 6.5,
+      "color": "#FFD6A8",
+      "intensity": 0.22,
+      "heading_rad": -0.671,
+      "track_ref_m": [
+        80.575,
+        -30.315
+      ]
+    },
+    {
+      "id": "light_6",
+      "position_m": [
+        42.4235,
+        -51.129,
+        22.15
+      ],
+      "aim_m": [
+        42.426,
+        -39.129,
+        0.0
+      ],
+      "pool_radius_m": 6.5,
+      "color": "#FFD6A8",
+      "intensity": 0.22,
+      "heading_rad": -1.571,
+      "track_ref_m": [
+        42.424,
+        -48.729
+      ]
+    },
+    {
+      "id": "light_7",
+      "position_m": [
+        8.5775,
+        -51.129,
+        22.15
+      ],
+      "aim_m": [
+        8.58,
+        -39.129,
+        0.0
+      ],
+      "pool_radius_m": 6.5,
+      "color": "#FFD6A8",
+      "intensity": 0.22,
+      "heading_rad": -1.571,
+      "track_ref_m": [
+        8.578,
+        -48.729
+      ]
+    },
+    {
+      "id": "light_8",
+      "position_m": [
+        -25.2695,
+        -51.129,
+        22.15
+      ],
+      "aim_m": [
+        -25.267,
+        -39.129,
+        0.0
+      ],
+      "pool_radius_m": 6.5,
+      "color": "#FFD6A8",
+      "intensity": 0.22,
+      "heading_rad": -1.571,
+      "track_ref_m": [
+        -25.269,
+        -48.729
+      ]
+    },
+    {
+      "id": "light_9",
+      "position_m": [
+        -64.3642,
+        -46.1821,
+        22.15
+      ],
+      "aim_m": [
+        -59.2182,
+        -35.3415,
+        0.0
+      ],
+      "pool_radius_m": 6.5,
+      "color": "#FFD6A8",
+      "intensity": 0.22,
+      "heading_rad": -2.014,
+      "track_ref_m": [
+        -63.335,
+        -44.014
+      ]
+    },
+    {
+      "id": "light_10",
+      "position_m": [
+        -92.2311,
+        -11.5515,
+        22.15
+      ],
+      "aim_m": [
+        -80.5406,
+        -8.8439,
+        0.0
+      ],
+      "pool_radius_m": 6.5,
+      "color": "#FFD6A8",
+      "intensity": 0.22,
+      "heading_rad": -2.914,
+      "track_ref_m": [
+        -89.893,
+        -11.01
+      ]
+    },
+    {
+      "id": "light_11",
+      "position_m": [
+        -82.4538,
+        31.8084,
+        22.15
+      ],
+      "aim_m": [
+        -73.0598,
+        24.3416,
+        0.0
+      ],
+      "pool_radius_m": 6.5,
+      "color": "#FFD6A8",
+      "intensity": 0.22,
+      "heading_rad": 2.47,
+      "track_ref_m": [
+        -80.575,
+        30.315
+      ]
+    }
+  ],
+  "intensity": 0.22
+}

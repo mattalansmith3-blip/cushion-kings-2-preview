@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="face" x1="30%" y1="18%" x2="72%" y2="86%">
+      <stop offset="0%" stop-color="#D09A6A"/>
+      <stop offset="46%" stop-color="#B07A4A"/>
+      <stop offset="100%" stop-color="#8A5A32"/>
+    </linearGradient>
+    <linearGradient id="ribbon" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#D09A6A"/>
+      <stop offset="100%" stop-color="#8A5A32"/>
+    </linearGradient>
+  </defs>
+  <!-- short V-cut ribbon, not a padlock bail -->
+  <path d="M24 3 L27.5 20 L32 15.5 L36.5 20 L40 3 Q32 8 24 3 Z"
+        fill="url(#ribbon)" stroke="#1A1D22" stroke-width="1.8" stroke-linejoin="round"/>
+  <circle cx="32" cy="38" r="20.5" fill="url(#face)" stroke="#1A1D22" stroke-width="2"/>
+  <circle cx="32" cy="38" r="15.4" fill="none" stroke="#1A1D22" stroke-width="1.1" opacity="0.85"/>
+  <circle cx="32" cy="38" r="15.4" fill="none" stroke="#D09A6A" stroke-width="0.55" opacity="0.45"/>
+  <path d="M19.4 29.2 A16 16 0 0 1 41.5 23.2" fill="none" stroke="#D09A6A" stroke-width="1.3" stroke-linecap="round" opacity="0.5"/>
+  <path d="M45 47.4 A16 16 0 0 1 22.8 51.8" fill="none" stroke="#8A5A32" stroke-width="1.15" stroke-linecap="round" opacity="0.4"/>
+  <path d="M32 27.2 L34.5 32.6 L40.5 33.1 L36 37.2 L37.3 43.1 L32 40.1 L26.7 43.1 L28 37.2 L23.5 33.1 L29.5 32.6 Z"
+        fill="#D09A6A" stroke="#1A1D22" stroke-width="1.05" stroke-linejoin="round"/>
+</svg>

@@ -7,14 +7,15 @@ Live site: https://mattalansmith3-blip.github.io/cushion-kings-2-preview/
 ## Current build
 
 - **Label:** CK2 Phase 1 hot-lap preview
-- **Play:** https://mattalansmith3-blip.github.io/cushion-kings-2-preview/p/p1-hotlap-fbb6c60/
+- **Play:** https://mattalansmith3-blip.github.io/cushion-kings-2-preview/p/p1-hotlap-9bef6bf/
 - **Source repo:** https://github.com/mattalansmith3-blip/cushion-kings-2
-- **Source commit:** [`fbb6c60`](https://github.com/mattalansmith3-blip/cushion-kings-2/commit/fbb6c6053c0123779695f4e8ce8b89b3b74c57c2) (`fbb6c6053c0123779695f4e8ce8b89b3b74c57c2`)
-- **Source date:** 26 Nov 2026, 7:41 PM PT (America/Los_Angeles)
-- **Notes:** Solo hot lap from CK2 main, starting on the title screen (logo B over the live track, Race Tonight), then the pre-lap garage, then the hot lap. Includes Hometown dirt r3 (#91), garage and bottom-band steer (#92), Crew Level 3 copy (#93), lap gate (#94, #99), shared `window.__ck2perf` and Pages-base garage fixtures (#96), WebKit steer/pause (#97), GarageOpts (#98), the title screen and garage cars (#100, #102), and Physics grip / setup / pursuit floors (#101, #103, #104). Local `tools/ci-local.sh` was 9/9 on this tip (hashes seed 1 `7a9e9dc3`, QA `3123fc1c`, 17976 steps).
+- **Source commit:** [`9bef6bf`](https://github.com/mattalansmith3-blip/cushion-kings-2/commit/9bef6bf5163d62c0f485779916ec508bcab4ebbc) (`9bef6bf5163d62c0f485779916ec508bcab4ebbc`)
+- **Source date:** 26 Nov 2026, 9:19 PM PT (America/Los_Angeles)
+- **Notes:** Combined main preview: title, main menu, Garage (Doc #00 default paint), Quick Race, Career hub, and the hot lap. Adds the UI screen shell and Career/Quick Race hubs (#114, #118), Render follow-cam zoom and T1 framing (#116), r5 horizon strip / town glow / logo B KTX2 / pools 0.22 (#117), Physics T1 wall-face fix and Hometown pit pads (#119, #120), and the entry/lazy/total JS gzip gate (#121). Local `tools/ci-local.sh` was 9/9 on this tip (hashes seed 1 `0346a248`, QA `6d1fe14c`, 17976 steps).
 
 ## Earlier builds
 
+- [`fbb6c60`](https://github.com/mattalansmith3-blip/cushion-kings-2/commit/fbb6c6053c0123779695f4e8ce8b89b3b74c57c2) — title, pre-lap garage, and hot lap, plus Physics grip / setup / pursuit floors (#101, #103, #104): https://mattalansmith3-blip.github.io/cushion-kings-2-preview/p/p1-hotlap-fbb6c60/
 - [`d14dbad`](https://github.com/mattalansmith3-blip/cushion-kings-2/commit/d14dbadcb716d99ba4c816b3a9e61ee2d3fda214) — #91–#97 tip (WebKit steer/pause), before the title screen and later physics floors: https://mattalansmith3-blip.github.io/cushion-kings-2-preview/p/p1-hotlap-d14dbad/
 - [`84f634e`](https://github.com/mattalansmith3-blip/cushion-kings-2/commit/84f634ee78943b0fef6dc0ec4ab4d646e3c7b672) — #91–#94 plus shared `__ck2perf` and Pages-base garage fixtures (#96), before the WebKit steer/pause fix: https://mattalansmith3-blip.github.io/cushion-kings-2-preview/p/p1-hotlap-84f634e/
 - [`bc8deaa`](https://github.com/mattalansmith3-blip/cushion-kings-2/commit/bc8deaa925ad70481d236984759fc9d6b75e43c6) — #91–#93 tip, before #94 and the Pages-base garage fixture fix: https://mattalansmith3-blip.github.io/cushion-kings-2-preview/p/p1-hotlap-bc8deaa/
